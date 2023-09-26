@@ -3,20 +3,16 @@ title: Algorithms for Data Science
 ---
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
-![Book 1](/Images/DM-Zaki-bookpic-2nd.png) ![Book 2](/Images/DM.jpg)
 
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.<br>
-Reading: Chapters 13, 14, 15 (Section 15.1), 16, 17, 18, and 19
 
-## <a name="Slides-and-Papers"></a>Slides and Papers
-Recommended Slides & Papers: 
 1. ### <a name="L1"></a>Introduction to Data Science  
 
     ```
     Required Reading:
     ```
 
-    - Slide: [Introduction to Data Science]https://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf) by Zico Kolter <br>
+    - Slide: [Introduction to Data Science](https://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf) by Zico Kolter <br>
     - Slide: [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) by Kevin Markham <br> 
 2. ### <a name="L2"></a>Python Programming
 
