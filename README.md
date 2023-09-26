@@ -1,39 +1,48 @@
 ---
 layout: home
-title: Just the Class
+title: Algorithms for Data Science
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: ADS
 ---
 
-# Just the Class
+# About the course
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+The fundamental algorithms in data mining and machine learning form the basis of data science, utilizing automated methods to analyze patterns and models for all kinds of data in applications ranging from scientific discovery to business analytics. This course website for Algorithms for Data Science, provides a comprehensive, in-depth overview of data mining, machine learning, and statistics, offering solid guidance for students, researchers, and practitioners. The website lays the foundations of data analysis, pattern mining, clustering, classification, and regression, with a focus on the algorithms and the underlying algebraic, geometric, and probabilistic concepts.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+## <a name="Class-Time-and-Location"></a>Class time and Location
+Saturday and Monday 08:00-09:30 AM (Fall 2023), Room 208. 
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## <a name="Grading"></a>Grading:
+* Homework – 40% <br>
+* Quizes – 40% <br>
+— Will consist of mathematical problems and/or programming assignments.
+* Endterm – 20%
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+### <a name="Four-Written-Exams"></a>Four Written Exams:
+TBA
 
-## Getting Started
+## <a name="Prerequisites"></a>Prerequisites:
+General mathematical sophistication; and a solid understanding of Algorithms, Linear Algebra, and Probability Theory, at the advanced undergraduate or beginning graduate level, or equivalent.
+Many of the aformentioned subjects will be tougth Dr. Fakoor in the other course.
 
-Getting started with Just the Class is simple.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+<!-- ## <a name="Topics"></a>Topics:
+Have a look at some reports of [Kaggle](https://www.kaggle.com/) or Stanford students ([CS224N](http://nlp.stanford.edu/courses/cs224n/2015/), [CS224D](http://cs224d.stanford.edu/reports_2016.html)) to get some general inspiration. -->
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+## <a name="Account"></a>Account:
+It is necessary to have a [GitHub](https://github.com/) account to share your projects. It offers plans for both private repositories and free accounts. Github is like the hammer in your toolbox, therefore, you need to have it!
 
-### Local development environment
+## <a name="Academic-Honor-Code"></a>Academic Honor Code:
+Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+We will follow the standard of Department of Mathematical Sciences approach: 
+* You can get help, but you MUST acknowledge the help on the work you hand in
+* Failure to acknowledge your sources is a violation of the Honor Code
+*  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
+* You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
+
+## <a name="Questions"></a>Questions?
+I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at m.amintoosi@um.ac.ir or talk to me after class.
