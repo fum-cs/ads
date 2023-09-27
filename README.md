@@ -13,11 +13,11 @@ seo:
 
 This website is devoted for two simultaneously courses [Algorithms for Data Science](ADS.md), and [Mathematical Foundations of Data Science](MFDS.md), which provide a comprehensive, in-depth overview of data mining, machine learning, and statistics, offering solid guidance for students, researchers, and practitioners. The website lays the foundations of data analysis, pattern mining, clustering, classification, and regression, with a focus on the algorithms and the underlying algebraic, geometric, and probabilistic concepts.
 
-This courses covers the fundamental algorithms and mathematics in data mining and machine learning; form the basis of data science, utilizing automated methods to analyze patterns and models for all kinds of data in applications ranging from scientific discovery to business analytics. 
+<!-- This courses covers the fundamental algorithms and mathematics in data mining and machine learning; form the basis of data science, utilizing automated methods to analyze patterns and models for all kinds of data in applications ranging from scientific discovery to business analytics.  -->
 
 ## <a name="Class-Time-and-Location"></a>Class time and Location
 - ADS:  Saturday and Monday 08:00-09:30 AM (Fall 2023), Room 2. 
-- MFDS: Saturday and Monday 10:00-11:30 AM (Fall 2023), Room 2. 
+- MFDS: Saturday 10:00-11:30 AM  and Monday 04:00-05:30 PM (Fall 2023), Room 2. 
 
 ## References
 - Mohammed J. Zaki and Wagner Meira Jr., [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources), 2020, Cambridge University Press.
@@ -52,9 +52,7 @@ Honesty and integrity are vital elements of the academic works. All your submitt
 
 We will follow the standard of Faculty of Mathematical Sciences approach: 
 * You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
-* You can get help, but you MUST acknowledge the help on the work you hand in
-* Failure to acknowledge your sources is a violation of the Honor Code
 *  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
 
 ## <a name="Questions"></a>Questions?
-I will be having office hours for this course on Monday (09:30 AM--12:00 AM). If this is not convenient, email me at m.amintoosi@um.ac.ir or talk to me after class.
+I will be having office hours for this course on Monday (10:00 AM--11:30 AM). If this is not convenient, email me at m.amintoosi@um.ac.ir or talk to me after class.
