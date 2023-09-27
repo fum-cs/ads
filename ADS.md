@@ -4,9 +4,11 @@ title: Algorithms for Data Science
 description: Listing of course modules and topics.
 ---
 
-## <a name="Main-TextBooks"></a>Main TextBook:
+## <a name="Main-TextBooks"></a>Main TextBooks:
 
-* [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr. (Data Mining & Analysis)
+* [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr. (Data Mining & Analysis)
+* [All Of Statistics: A Concise Course In Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Larry Wassennan (All Of Statistics)
+
 
 ## 1402/07/08
 ### <a name="L1"></a>Introduction to Data Science  
@@ -51,9 +53,9 @@ Meta Heuristic Algorithms
 ## 1402/07/22
 ### <a name="L8"></a>Representative-Based Clustering
 
-- Chapter 13 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+- Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - **HW**{: .label .label-red } 13.5: Q2, Q4, Q6, Q7 
-- Slides (Representative-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap13.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap13.pptx) by Mohammed J. Zaki and Wagner Meira Jr. 
+- Slides (Representative-based Clustering): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap13.pdf)
 - Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson 
 - Slide: [Introduction to Machine Learning (Clustering and EM)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/EM.pdf) by Barnabás Póczos & Aarti Singh 
 - Tutorial: [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by 
@@ -79,9 +81,9 @@ Sean Borman
 
 ## 1402/08/01
 ### <a name="L8"></a>Hierarchical Clustering
-- Chapter 14 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+- Chapter 14 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - **HW**{: .label .label-red } 14.4: Q4 
-- Slides (Hierarchical Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap14.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap14.pptx) by Mohammed J. Zaki and Wagner Meira Jr. 
+- Slides (Hierarchical Clustering): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap14.pdf)
 - Slide: [Hierarchical Clustering](http://statweb.stanford.edu/~jtaylo/courses/stats202/restricted/notes/hierarchical.pdf) by Jonathan Taylor 
 - Slide: [Data Structures (Heap)](http://www.cs.nthu.edu.tw/~wkhon/ds/ds11/lecture/lecture4.pdf) by Wing-Kai Hon 
     
@@ -96,8 +98,8 @@ Sean Borman
 
 ## 1402 Fall
 ### <a name="L12"></a>Clustering Validation
-- Chapter 17 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
-- Slides of Section 17.1 (Clustering Validation): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap17.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap17.pptx)  by Mohammed J. Zaki and Wagner Meira Jr. 
+- Chapter 17 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Slides of Section 17.1 (Clustering Validation): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap17.pdf)
 - Slide: [Clustering Analysis](http://www.mind.disco.unimib.it/public/opere/143.pdf) by Enza Messina 
 - Slide: [Information Theory](http://www2.eng.cam.ac.uk/~js851/3F1MM13/L1.pdf) by Jossy Sayir 
 - Slide: [Normalized Mutual Information: Estimating Clustering Quality](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf) by Bilal Ahmed  
@@ -109,16 +111,16 @@ Sean Borman
 
 ## 1402 Fall
 ### <a name="L10"></a>Density-Based Clustering
-- Chapter 15 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
-- Slides of Section 15.1 (Density-based Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap15.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap15.pptx) by Mohammed J. Zaki and Wagner Meira Jr. 
+- Chapter 15 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Slides of Section 15.1 (Density-based Clustering): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap15.pdf)
 - Slide: [Spatial Database Systems](http://dna.fernuni-hagen.de/Tutorial-neu.pdf) by 
 Ralf Hartmut Güting 
 
 ## 1402 Fall
 ### <a name="L11"></a>Kernel Method
     
-- Chapter 5 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
-- Kernel-Kmeans Chapter 13 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) 
+- Chapter 5 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Kernel-Kmeans Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/) 
 - **HW**{: .label .label-red } TBA
 
 ## 1402/08/xx
@@ -126,9 +128,9 @@ Ralf Hartmut Güting
 
 ## 1402 Fall
 ### <a name="L11"></a>Spectral and Graph Clustering  
-- Chapter 16 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+- Chapter 16 of [Data Mining & Analysis](https://dataminingbook.info/)  
     **Exercises** 16.5: Q2, Q3, Q6 
-- Slides (Spectral and Graph Clustering): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap16.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap16.pptx) by Mohammed J. Zaki and Wagner Meira Jr. 
+- Slides (Spectral and Graph Clustering): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap16.pdf) 
 - Slide: [Spectral Clustering](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture21.pdf) by Andrew Rosenberg 
 - Slide: [Introduction to Spectral Clustering](http://www.cvl.isy.liu.se:82/education/graduate/spectral-clustering/SC_course_part1.pdf) by Vasileios Zografos and Klas Nordberg 
     
@@ -145,8 +147,8 @@ Randal J. Barnes
 
 ## 1402 Fall (3 Sessions)
 ### <a name="L13"></a>Probabilistic Classification 
-- Chapter 18 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
-- Slides (Probabilistic Classification): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap18.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap18.pptx)  by Mohammed J. Zaki and Wagner Meira Jr. 
+- Chapter 18 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Slides (Probabilistic Classification): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap18.pdf)
 - Slide: [Naïve Bayes Classifier](http://www.cs.ucr.edu/~eamonn/CE/Bayesian%20Classification%20withInsect_examples.pdf) by Eamonn Keogh 
 - **Code**{: .label .label-green} [KNN-Iris](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/KNN/KNN-iris.ipynb)
 - **Code**{: .label .label-green} [KNN-mnist](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/KNN/KNN-mnist.ipynb)
@@ -159,28 +161,30 @@ Randal J. Barnes
 
 ## 1402 Winter
 ### <a name="L14"></a>Decision Tree Classifier 
-- Chapter 19 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
-- Slides (Decision Tree Classifier): [PDF](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=slides-chap19.pdf), [PPT](http://www.dataminingbook.info/pmwiki.php/Main/BookPathUploads?action=download&upname=chap19.pptx) by Mohammed J. Zaki and Wagner Meira Jr. 
+- Chapter 19 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Slides (Decision Tree Classifier): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap19.pdf)
 - Slide: [Information Gain](https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf) by Linda Shapiro 
 
 ## 1402 Winter
 **EXAM**{: .label .label-purple }
 
 ## 1402 Winter
-### <a name="L7"></a>Dimension Reduction
-- Chapter 7 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+### <a name="L7"></a>Dimensionality Reduction
+- Chapter 7 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - PCA
 - LDA
 - Kernel-PCA
 
 ## 1402 Winter
 ### <a name="L7"></a>Itemset Mining
-- Chapter 8 of [Data Mining & Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookResources)  
+- Chapter 8 of [Data Mining & Analysis](https://dataminingbook.info/)  
 
 ## 1402 Winter
 ### <a name="L6"></a>Link Analysis         
 - Ranking Graph Vertices, [Page Rank](http://mct.iranjournals.ir/article_263_d3eae82ca520e66df01732cb07fd6841.pdf)
+
 **Additional Reading**{: .label .label-yellow }
+
 - Chapter 5 of [Mining of Massive Datasets](http://www.mmds.org)  
 - Slide of Sections 5.1, 5.2 (PageRank, Efficient Computation of PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)
 - Slide of Sections 5.3-5.5 (Topic-Sensitive PageRank, Link Spam, Hubs and Authorities): [Analysis of Large Graphs 2](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)

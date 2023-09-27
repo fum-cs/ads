@@ -4,33 +4,71 @@ title: Mathematical Foundations of Data Science
 description: Listing of course modules and topics.
 ---
 
-# TBA
+## <a name="Main-TextBooks"></a>Main TextBooks:
 
-## Temporary text for test
+* [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr. (Data Mining & Analysis)
+* [All Of Statistics: A Concise Course In Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Larry Wassennan (All Of Statistics)
+ 
+## 1402 Fall 
+### <a name="L7"></a>Data Matrix (2 Sessions)
+- Chapter 1 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Data Matrix 
+- Attributes 
+- Data: Algebraic and Geometric View 
+- Data: Probabilistic View 
 
-1402/07/08
-: [Introduction to Data Science](https://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf) : Zico Kolter
-  : [3.1](#), [2.2](#), [2.3](#)
+## 1402 Fall 
+### <a name="L7"></a>Numeric Attributes (2 Sessions)
+- Chapter 2 of [Data Mining & Analysis](https://dataminingbook.info/)  
+-  Univariate Analysis
+-  Bivariate Analysis 
+-  Multivariate Analysis
+-  Data Normalization
+-  Normal Distribution 
+-  Hypothesis Testing and p-values
 
-: [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) 
-  : Kevin Markham  
+## 1402 Fall 
+### <a name="L7"></a>Categorical Attributes (3 Sessions)
+- Chapter 3 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Univariate Analysis
+- Bivariate Analysis
+- Multivariate Analysis
+- Distance and Angle
+- Discretization 
 
-1402/07/10
-: **Section**{: .label .label-purple }[Python Programming](https://cs-um.github.io/docs/base/Fundamentals-of-Computer-Programming/)
-  : [Solution](#)
-: Video: [An Introduction to Git](https://faradars.org/courses/fvgit9609-git-github-gitlab) by Jadi  
-: Web site: [GIT for Beginners](https://www.zoomit.ir/computer-learning/266427-git-github-fundamentals-tutorials/) 
+## 1402 Fall 
+### <a name="L7"></a>Linear Regression (3 Sessions)
+- Chapter 23 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Linear Regression Model
+- Bivariate Regression
+- Multiple Regression
+- Ridge Regression
+- Kernel Regression
+- L1 Regression: Lasso 
 
-1402/07/15
-: [Image Processing and Computer Vision](#)
+## 1402 Fall 
+### <a name="L7"></a>Logistic Regression (2 Sessions)
+- Chapter 24 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Binary Logistic Regression
+- Multiclass Logistic Regression
 
-: Website: [Image Processing in Python](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian <br>
-: Website: [Image Processing in Python with OpenCV](https://www.m-vision.ir/%D8%A2%D9%85%D9%88%D8%B2%D8%B4/%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1/opencv/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%AA%D9%88%D8%B3%D8%B7-opencv/) by M. Kiani <br>
-: Github: [Tutorial for Image Processing in Python](https://github.com/zengsn/image-processing-python) by Shaoning Zeng <br>
-: [Image processing tutorials](https://github.com/yg42/iptutorials/blob/master/book/tutorials_python.pdf)
-  : Book
+## 1402 Winter 
+### <a name="L7"></a>Bayesian Inference (1 Sessions)
+- Chapter 11 of All Of Statistics  
 
-1402/07/17 - Image Matting
-: **Lab**{: .label .label-purple }  [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) 
-  : by Y. Gavet & J. Debayle
-: **HW 2 due**{: .label .label-red }
+## 1402 Winter 
+### <a name="L7"></a>Random Walk (2 Sessions)
+- Chapter xx of All Of Statistics  
+
+## 1402 Winter 
+### <a name="L7"></a>Hidden Markov Model (2 Sessions)
+- Chapter 23 of All Of Statistics  
+
+## 1402 Winter 
+### <a name="L7"></a>Stationary Distribution (1 Sessions)
+- Chapter 23 of All Of Statistics  
+
+## 1402 Winter 
+### <a name="L7"></a>Markov chain Monte Carlo (MCMC) (1 Sessions)
+- Chapter 24 of All Of Statistics  
+
