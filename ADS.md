@@ -13,7 +13,7 @@ title: Introduction to Data Science
   : [3.1](#), [2.2](#), [2.3](#)
 : [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) 
   : Kevin Markham  
-  
+
 1402/07/10
 : **Section**{: .label .label-purple }[Python Programming](https://cs-um.github.io/docs/base/Fundamentals-of-Computer-Programming/)
   : [Solution](#)
@@ -41,5 +41,5 @@ title: Discrete Optimization
 ---
 
 1402/07/22 - Meta Heuristic Algorithms
-: Draft version of 'Meta Heuristic Algorithms'
+: Draft version of [Meta Heuristic Algorithms](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
   : Book
