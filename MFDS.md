@@ -4,6 +4,10 @@ title: Mathematical Foundations of Data Science
 description: Listing of course modules and topics.
 ---
 
+# TBA
+
+## Temporary text for test
+
 1402/07/08
 : [Introduction to Data Science](https://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf) : Zico Kolter
   : [3.1](#), [2.2](#), [2.3](#)

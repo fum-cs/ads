@@ -8,7 +8,7 @@ description: Listing of course modules and topics.
 
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources) by Mohammed J. Zaki and Wagner Meira Jr.
 
-##1402/07/08
+## 1402/07/08
 ### <a name="L1"></a>Introduction to Data Science  
 
 - Slide: [Introduction to Data Science](https://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf) by Zico Kolter
@@ -26,7 +26,7 @@ description: Listing of course modules and topics.
 
 - Web site: [GIT for Beginners](https://www.zoomit.ir/computer-learning/266427-git-github-fundamentals-tutorials/)
 
-##1402/07/10
+## 1402/07/10
 
 ### <a name="L5"></a>Image Processing and Computer Vision
 
@@ -45,10 +45,16 @@ description: Listing of course modules and topics.
     
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
 
-##1402/07/15
+## 1402/07/15
 
-##1402/07/17
+## 1402/07/17
 
+
+**Code**{: .label .label-green} [KNN-Iris](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/KNN/KNN-iris.ipynb)
+
+**Code**{: .label .label-green} [KNN-mnist](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/KNN/KNN-mnist.ipynb)
+
+**HW**{: .label .label-red }[Hand Written digits Recognition](https://fum-cs.github.io/cs-bsc-dm/homeworks/hw1)
 
 ### <a name="L6"></a>Link Analysis   
 
