@@ -14,6 +14,7 @@ description: Listing of course modules and topics.
 ### <a name="L1"></a>Introduction to Data Science  
 - Slide: [Introduction to Data Science](https://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf) by Zico Kolter
 - Slide: [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) by Kevin Markham  
+- Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson 
     
 ### <a name="L2"></a>Python Programming
         
@@ -25,6 +26,17 @@ description: Listing of course modules and topics.
 - Web site: [GIT for Beginners](https://www.zoomit.ir/computer-learning/266427-git-github-fundamentals-tutorials/)
 
 ## 1402/07/10
+Discrete Optimization
+: Draft version of [Meta Heuristic Algorithms](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
+  : Book
+
+: N-Queen Problem
+: Knight-Tour, [My old Delphi program](https://www.dropbox.com/s/okfa4lmzf1qqyus/NQueen-KnightTour.zip?dl=1), previous century!
+: Traveling Salesman Problem
+: Packing & Cutting Problems, [My old Delphi program](https://www.dropbox.com/s/3ztaqqlpki9e2ep/Thesis.zip?dl=1), previous century! My MSc. Project.
+: [Some published papers about the above programs](https://fumcs.github.io/projects/comb-opt/)
+
+## 1402/07/15
 ### <a name="L5"></a>Image Processing and Computer Vision
 - Website: [Image Processing in Python](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
 - Website: [Image Processing in Python with OpenCV](https://www.m-vision.ir/%D8%A2%D9%85%D9%88%D8%B2%D8%B4/%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1/opencv/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%AA%D9%88%D8%B3%D8%B7-opencv/) by M. Kiani 
@@ -32,19 +44,10 @@ description: Listing of course modules and topics.
 - Book: [Image processing tutorials](https://github.com/yg42/iptutorials/blob/master/book/tutorials_python.pdf)
     
 **Additional Reading**{: .label .label-yellow }
+: [Some published papers](https://fumcs.github.io/projects/computer-vision/)
+
 ### <a name="L4"></a>Image Matting
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
-
-## 1402/07/15
-Discrete Optimization
-Meta Heuristic Algorithms
-: Draft version of [Meta Heuristic Algorithms](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
-  : Book
-
-: N-Queen Problem
-: Traveling Salesman Problem
-: Knight-Tour
-: Cutting Stock Problem
 
 ## 1402/07/17
 : Simulated Annealing
@@ -56,7 +59,6 @@ Meta Heuristic Algorithms
 - Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - **HW**{: .label .label-red } 13.5: Q2, Q4, Q6, Q7 
 - Slides (Representative-based Clustering): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap13.pdf)
-- Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson 
 - Slide: [Introduction to Machine Learning (Clustering and EM)](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/EM.pdf) by Barnabás Póczos & Aarti Singh 
 - Tutorial: [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by 
 Sean Borman 
