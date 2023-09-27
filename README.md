@@ -20,7 +20,9 @@ This courses covers the fundamental algorithms and mathematics in data mining an
 - MFDS: Saturday and Monday 10:00-11:30 AM (Fall 2023), Room 2. 
 
 ## References
-- Mohammed J. Zaki and Wagner Meira Jr.,[Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources), 2020, Cambridge University Press.
+- Mohammed J. Zaki and Wagner Meira Jr., [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources), 2020, Cambridge University Press.
+- Larry Wassennan, [All Of Statistics: A Concise Course In Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf), 2003, Michigan Publishing. 
+- Stanley H. Chan, [Introduction to Probability for Data Science](https://probability4datascience.com/index.html), 2021.
 - [Dr. Hajiabolhassan's Algorithms For Data Science Course](https://hhaji.github.io/Algorithms-For-Data-Science).
 
 ## [Syllabuses](https://1drv.ms/b/s!AmjylFwPahYx72aSR6WT6gDpjxnn?e=rRg5kY)
