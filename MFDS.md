@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathematics Foundations of Data Science 
+title: Mathematical Foundations of Data Science 
 description: Listing of course modules and topics.
 ---
 
