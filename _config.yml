@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Algorithms for Data Science Course
-tagline: Course website of ADS, FUM
-description: ADS Course website, Fall 2023, Dr. M. Amintoosi
+title: Foundations of Data Science
+tagline: Course website of ADS & MFDS, FUM
+description: ADS & MFDS Course website, Fall 2023
 author: M. Amintoosi
 baseurl: '/fds' # the subpath of your site, e.g. /blog
 url: 'https://fum-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
