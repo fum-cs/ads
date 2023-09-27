@@ -17,7 +17,7 @@ title: Algorithms for Data Science Course
 tagline: Course website of ADS, FUM
 description: ADS Course website, Fall 2023, Dr. M. Amintoosi
 author: M. Amintoosi
-baseurl: '/ads' # the subpath of your site, e.g. /blog
+baseurl: '/fds' # the subpath of your site, e.g. /blog
 url: 'https://fum-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 

@@ -1,5 +1,7 @@
 ---
-title: Introduction to Data Science Course
+layout: page
+title: Mathematics Foundations of Data Science 
+description: Listing of course modules and topics.
 ---
 
 1402/07/08
