@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Algorithms for Data Science
+title: Fundamentals of Data Science
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -10,8 +10,10 @@ seo:
 
 # About the course
 
-The fundamental algorithms in data mining and machine learning form the basis of data science, utilizing automated methods to analyze patterns and models for all kinds of data in applications ranging from scientific discovery to business analytics. 
-This website is devoted for two simultaneously courses [Algorithms for Data Science](ADS.md), and [Mathematical Foundations of Data Science](MFDS.md) provides a comprehensive, in-depth overview of data mining, machine learning, and statistics, offering solid guidance for students, researchers, and practitioners. The website lays the foundations of data analysis, pattern mining, clustering, classification, and regression, with a focus on the algorithms and the underlying algebraic, geometric, and probabilistic concepts.
+
+This website is devoted for two simultaneously courses [Algorithms for Data Science](ADS.md), and [Mathematical Foundations of Data Science](MFDS.md), which provide a comprehensive, in-depth overview of data mining, machine learning, and statistics, offering solid guidance for students, researchers, and practitioners. The website lays the foundations of data analysis, pattern mining, clustering, classification, and regression, with a focus on the algorithms and the underlying algebraic, geometric, and probabilistic concepts.
+
+This courses covers the fundamental algorithms and mathematics in data mining and machine learning; form the basis of data science, utilizing automated methods to analyze patterns and models for all kinds of data in applications ranging from scientific discovery to business analytics. 
 
 ## <a name="Class-Time-and-Location"></a>Class time and Location
 - ADS:  Saturday and Monday 08:00-09:30 AM (Fall 2023), Room 2. 
@@ -21,6 +23,7 @@ This website is devoted for two simultaneously courses [Algorithms for Data Scie
 - Mohammed J. Zaki and Wagner Meira Jr.,[Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookResources), 2020, Cambridge University Press.
 - [Dr. Hajiabolhassan's Algorithms For Data Science Course](https://hhaji.github.io/Algorithms-For-Data-Science).
 
+## [Syllabuses](https://1drv.ms/b/s!AmjylFwPahYx72aSR6WT6gDpjxnn?e=rRg5kY)
 
 ## <a name="Grading"></a>Grading:
 * Homework – 40% <br>
