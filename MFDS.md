@@ -25,7 +25,6 @@ description: Listing of course modules and topics.
 -  Multivariate Analysis
 -  Data Normalization
 -  Normal Distribution 
--  Hypothesis Testing and p-values
 
 ## 1402 Fall 
 ### <a name="L7"></a>Categorical Attributes (2 Sessions)
@@ -35,6 +34,8 @@ description: Listing of course modules and topics.
 - Multivariate Analysis
 - Distance and Angle
 - Discretization 
+- Hypothesis Testing and p-values
+
 
 ## 1402/07/29
 **EXAM 1**{: .label .label-purple }
