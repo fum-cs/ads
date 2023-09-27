@@ -28,7 +28,7 @@ description: Listing of course modules and topics.
 -  Hypothesis Testing and p-values
 
 ## 1402 Fall 
-### <a name="L7"></a>Categorical Attributes (3 Sessions)
+### <a name="L7"></a>Categorical Attributes (2 Sessions)
 - Chapter 3 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - Univariate Analysis
 - Bivariate Analysis
@@ -36,8 +36,11 @@ description: Listing of course modules and topics.
 - Distance and Angle
 - Discretization 
 
+## 1402/07/29
+**EXAM 1**{: .label .label-purple }
+
 ## 1402 Fall 
-### <a name="L7"></a>Linear Regression (3 Sessions)
+### <a name="L7"></a>Linear Regression (1 Sessions)
 - Chapter 23 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - Linear Regression Model
 - Bivariate Regression
@@ -47,28 +50,47 @@ description: Listing of course modules and topics.
 - L1 Regression: Lasso 
 
 ## 1402 Fall 
-### <a name="L7"></a>Logistic Regression (2 Sessions)
+### <a name="L7"></a>Logistic Regression (1 Sessions)
 - Chapter 24 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - Binary Logistic Regression
 - Multiclass Logistic Regression
 
-## 1402 Winter 
-### <a name="L7"></a>Bayesian Inference (1 Sessions)
+## 1402 Fall 
+### <a name="L7"></a>Regression Evaluation (2 Sessions)
+- Chapter of [Data Mining & Analysis](https://dataminingbook.info/)  
+
+## 1402 Fall 
+### <a name="L7"></a>High-dimensional Data (2 Sessions)
+- Chapter 6 of [Data Mining & Analysis](https://dataminingbook.info/) 
+
+## 1402/07/29
+**EXAM 2**{: .label .label-purple }
+
+## 1402 Fall 
+### <a name="L7"></a>Bayesian Inference (2 Sessions)
 - Chapter 11 of All Of Statistics  
 
-## 1402 Winter 
-### <a name="L7"></a>Random Walk (2 Sessions)
+## 1402 Fall  
+### <a name="L7"></a>Stochastic Processes (4 Sessions)
 - Chapter xx of All Of Statistics  
 
-## 1402 Winter 
-### <a name="L7"></a>Hidden Markov Model (2 Sessions)
+## 1402 Fall  
+### <a name="L7"></a>Simulation Methods (2 Sessions)
+- Chapter xx of All Of Statistics 
+
+## 1402 Fall 
+### <a name="L7"></a>Inference About Independence (2 Sessions)
 - Chapter 23 of All Of Statistics  
 
 ## 1402 Winter 
-### <a name="L7"></a>Stationary Distribution (1 Sessions)
+### <a name="L7"></a>Causal Inference (2 Sessions)
 - Chapter 23 of All Of Statistics  
 
 ## 1402 Winter 
-### <a name="L7"></a>Markov chain Monte Carlo (MCMC) (1 Sessions)
+### <a name="L7"></a>Directed Graphs (2 Sessions)
+- Chapter 23 of All Of Statistics  
+
+## 1402 Winter 
+### <a name="L7"></a>Undirected Graphs (1 Sessions)
 - Chapter 24 of All Of Statistics  
 
