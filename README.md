@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Fundamentals of Data Science
+title: Foundations of Data Science
 nav_exclude: true
 permalink: /:path/
 seo:
