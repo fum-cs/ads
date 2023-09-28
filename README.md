@@ -11,7 +11,7 @@ seo:
 # About the course
 
 
-This website is devoted for two simultaneously courses [Algorithms for Data Science](ADS.md), and [Mathematical Foundations of Data Science](MFDS.md), which provide a comprehensive, in-depth overview of data mining, machine learning, and statistics, offering solid guidance for students, researchers, and practitioners. The website lays the foundations of data analysis, pattern mining, clustering, classification, and regression, with a focus on the algorithms and the underlying algebraic, geometric, and probabilistic concepts.
+This website is devoted for two simultaneously courses [Algorithms for Data Science](ADS.md)(ADS), and [Mathematical Foundations of Data Science](MFDS.md)(MFDS), which provide a comprehensive, in-depth overview of data mining, machine learning, and statistics, offering solid guidance for students, researchers, and practitioners. The website lays the foundations of data analysis, pattern mining, clustering, classification, and regression, with a focus on the algorithms and the underlying algebraic, geometric, and probabilistic concepts.
 
 <!-- This courses covers the fundamental algorithms and mathematics in data mining and machine learning; form the basis of data science, utilizing automated methods to analyze patterns and models for all kinds of data in applications ranging from scientific discovery to business analytics.  -->
 
