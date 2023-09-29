@@ -25,6 +25,8 @@ This website is devoted for two simultaneously courses [Algorithms for Data Scie
 - Stanley H. Chan, [Introduction to Probability for Data Science](https://probability4datascience.com/index.html), 2021.
 - [Dr. Hajiabolhassan's Algorithms For Data Science Course](https://hhaji.github.io/Algorithms-For-Data-Science).
 
+The references mentioned above, along with other books required for the course, can be accessed from the [FUM local folder](https://fumdrive.um.ac.ir/index.php/s/24MTPpBXXGWCnBZ).
+
 ## [Syllabuses](https://1drv.ms/b/s!AmjylFwPahYx72aSR6WT6gDpjxnn?e=rRg5kY)
 
 ## <a name="Grading"></a>Grading:
