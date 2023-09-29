@@ -58,3 +58,6 @@ We will follow the standard of Faculty of Mathematical Sciences approach:
 
 ## <a name="Questions"></a>Questions?
 I will be having office hours for this course on Monday (10:00 AM--11:30 AM). If this is not convenient, email me at m.amintoosi@um.ac.ir or talk to me after class.
+
+## Our Slack workspace
+Our computer science group has a Slack workspace where we can chat and share ideas. To join us, [click this link](https://join.slack.com/t/fum-cs/shared_invite/zt-1zntzuw2t-JOWbsyQdGASNz~40AhWy_Q) and follow the instructions.
