@@ -15,11 +15,12 @@ description: Listing of course modules and topics.
 - Slide: [Introduction to Data Science](https://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf) by Zico Kolter
 - Slide: [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) by Kevin Markham  
 - Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson 
+- **HW**{: .label .label-red }[Generate random points with uniform distribution in the unit sphere](https://vu.um.ac.ir/mod/assign/view.php?id=441612), due date: 1402/07/17
     
 ### <a name="L2"></a>Python Programming
         
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Python Programming](https://cs-um.github.io/docs/base/Fundamentals-of-Computer-Programming/) 
+- **HW**{: .label .label-red }[Satisfiability Table](https://vu.um.ac.ir/mod/assign/view.php?id=441616), due date: 1402/07/17
 
 ### <a name="L3"></a>Toolkit Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)  
 - Video: [An Introduction to Git](https://faradars.org/courses/fvgit9609-git-github-gitlab) by Jadi
