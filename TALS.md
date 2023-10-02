@@ -16,6 +16,10 @@ description: Listing of modules and topics led by TAs.
     - [Book web site](https://homepages.ecs.vuw.ac.nz/~marslast/MLbook.html)
     - [Github of the book](https://github.com/alexsosn/MarslandMLAlgo)
 
+
 ## 1402 Fall 
+Python Tutorial
+* [درک برنامه نویسی جادی](https://www.aparat.com/v/r9mUu)
+* [آموزش رایگان پایتون - از مقدماتی تا پیشرفته](https://codeyad.com/course/learn-python)
 
 TBA

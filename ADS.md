@@ -149,25 +149,6 @@ Randal J. Barnes
 ](http://www.ee.cuhk.edu.hk/~wkma/engg5781/new_notes/lecture%204-%20PSD-%20note.pdf) by Wing-Kin Ma  
 
 
-## 1402 Fall (3 Sessions)
-### <a name="L13"></a>Probabilistic Classification 
-- Chapter 18 of [Data Mining & Analysis](https://dataminingbook.info/)  
-- Slides (Probabilistic Classification): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap18.pdf)
-- Slide: [Naïve Bayes Classifier](http://www.cs.ucr.edu/~eamonn/CE/Bayesian%20Classification%20withInsect_examples.pdf) by Eamonn Keogh 
-- **Code**{: .label .label-green} [KNN-Iris](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/KNN/KNN-iris.ipynb)
-- **Code**{: .label .label-green} [KNN-mnist](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/KNN/KNN-mnist.ipynb)
-- **HW**{: .label .label-red }[Hand Written digits Recognition](https://fum-cs.github.io/cs-bsc-dm/homeworks/hw1)
-    
-**Additional Reading**{: .label .label-yellow }
-    
-- Slide: [Bayes Nets for Representing and Reasoning About Uncertainty](http://www.cs.cmu.edu/~./awm/tutorials/bayesnet09.pdf) by Andrew W. Moore 
-- Slide: [A Tutorial on Bayesian Networks](http://www.cs.ucf.edu/~mingjie/ECM6308/rand0.pdf) by Weng-Keen Wong 
-
-## 1402 Winter
-### <a name="L14"></a>Decision Tree Classifier 
-- Chapter 19 of [Data Mining & Analysis](https://dataminingbook.info/)  
-- Slides (Decision Tree Classifier): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap19.pdf)
-- Slide: [Information Gain](https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf) by Linda Shapiro 
 
 ## 1402 Winter
 **EXAM**{: .label .label-purple }
