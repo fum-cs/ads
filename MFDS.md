@@ -9,11 +9,12 @@ description: Listing of course modules and topics.
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr. (Data Mining & Analysis) [PDF](https://fumdrive.um.ac.ir/index.php/f/4160875)
 * [All Of Statistics: A Concise Course In Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Larry Wassennan (All Of Statistics)
  
-# Math & Stat Partm by Dr. Fakoor
+# Math & Stat Part, by Dr. Fakoor
 
 ## 1402 Fall 
 ### <a name="L7"></a>Data Matrix (2 Sessions)
 - Chapter 1 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Slides (Decision Tree Classifier): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap1.pdf)
 - Data Matrix 
 - Attributes 
 - Data: Algebraic and Geometric View 
@@ -22,6 +23,7 @@ description: Listing of course modules and topics.
 ## 1402 Fall 
 ### <a name="L7"></a>Numeric Attributes (2 Sessions)
 - Chapter 2 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Slides (Decision Tree Classifier): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap2.pdf)
 -  Univariate Analysis
 -  Bivariate Analysis 
 -  Multivariate Analysis
@@ -30,7 +32,8 @@ description: Listing of course modules and topics.
 
 ## 1402 Fall 
 ### <a name="L7"></a>Categorical Attributes (2 Sessions)
-- Chapter 3 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Chapter 3 of [Data Mining & Analysis](https://dataminingbook.info/)
+- Slides (Decision Tree Classifier): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap3.pdf)
 - Univariate Analysis
 - Bivariate Analysis
 - Multivariate Analysis
@@ -44,7 +47,8 @@ description: Listing of course modules and topics.
 
 ## 1402 Fall 
 ### <a name="L7"></a>Linear Regression (1 Sessions)
-- Chapter 23 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Chapter 23 of [Data Mining & Analysis](https://dataminingbook.info/)
+- Slides (Decision Tree Classifier): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap23.pdf)
 - Linear Regression Model
 - Bivariate Regression
 - Multiple Regression
@@ -54,7 +58,8 @@ description: Listing of course modules and topics.
 
 ## 1402 Fall 
 ### <a name="L7"></a>Logistic Regression (1 Sessions)
-- Chapter 24 of [Data Mining & Analysis](https://dataminingbook.info/)  
+- Chapter 24 of [Data Mining & Analysis](https://dataminingbook.info/)
+- Slides (Decision Tree Classifier): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap24.pdf)
 - Binary Logistic Regression
 - Multiclass Logistic Regression
 
