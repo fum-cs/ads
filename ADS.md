@@ -22,9 +22,6 @@ description: Listing of course modules and topics.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - **HW**{: .label .label-red }[Satisfiability Table](https://vu.um.ac.ir/mod/assign/view.php?id=441616), due date: 1402/07/17
 
-### <a name="L3"></a>Toolkit Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)  
-- Video: [An Introduction to Git](https://faradars.org/courses/fvgit9609-git-github-gitlab) by Jadi
-- Web site: [GIT for Beginners](https://www.zoomit.ir/computer-learning/266427-git-github-fundamentals-tutorials/)
 
 ## 1402/07/10
 Discrete Optimization
@@ -38,6 +35,16 @@ Discrete Optimization
 : [Some published papers about the above programs](https://fumcs.github.io/projects/comb-opt/)
 
 ## 1402/07/15
+: Simulated Annealing
+  : Chapter 3 of My Book
+- **HW**{: .label .label-red }[Python Program of Program 3.1, Page 23 of My book](), due: 1402/07/25
+
+**Additional Reading**{: .label .label-yellow }
+* [Simulated Annealing From Scratch in Python](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/)
+* [Simulated Annealing Tutorial, 2D Example](http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing)
+
+## 1402/07/17
+
 ### <a name="L5"></a>Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
   * [Scikit-image documentation](https://scikit-image.org/docs/stable/)
@@ -52,9 +59,6 @@ Discrete Optimization
 ### <a name="L4"></a>Image Matting
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
 
-## 1402/07/17
-: Simulated Annealing
-: Genetic Algorithm
 
 ## 1402/07/22
 ### <a name="L8"></a>Representative-Based Clustering

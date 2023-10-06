@@ -22,4 +22,8 @@ Python Tutorial
 * [درک برنامه نویسی جادی](https://www.aparat.com/v/r9mUu)
 * [آموزش رایگان پایتون - از مقدماتی تا پیشرفته](https://codeyad.com/course/learn-python)
 
+### Toolkit Lab: [Git](https://git-scm.com) & [GitHub](https://github.com)  
+- Video: [An Introduction to Git](https://faradars.org/courses/fvgit9609-git-github-gitlab) by Jadi
+- Web site: [GIT for Beginners](https://www.zoomit.ir/computer-learning/266427-git-github-fundamentals-tutorials/)
+
 TBA
