@@ -31,9 +31,9 @@ The references mentioned above, along with other books required for the course, 
 
 ## <a name="Grading"></a>Grading:
 * Homework – 40% <br>
-* Quizes – 40% <br>
+* Quizes – 10% <br>
 — Will consist of mathematical problems and/or programming assignments.
-* Endterm – 20%
+* Endterm – 50%
 
 ### <a name="Four-Written-Exams"></a>Four Written Exams:
 TBA

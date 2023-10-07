@@ -20,7 +20,7 @@ description: Listing of course modules and topics.
 ### <a name="L2"></a>Python Programming
         
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- **HW**{: .label .label-red }[Satisfiability Table](https://vu.um.ac.ir/mod/assign/view.php?id=441616), due date: 1402/07/17
+- **HW**{: .label .label-red }[Satisfiability Table](https://vu.um.ac.ir/mod/assign/view.php?id=441616), due date: 1402/07/21 (Extended)
 
 
 ## 1402/07/10
@@ -35,6 +35,11 @@ Discrete Optimization
 : [Some published papers about the above programs](https://fumcs.github.io/projects/comb-opt/)
 
 ## 1402/07/15
+: Random Search
+  : Chapter 1 & 2 of My Book + [My Paper](https://www.dropbox.com/s/gdwuin9xycbvxwa/1379-npcomplete.pdf?dl=0)
+- **HW**{: .label .label-red }[Python Program of Program 2.1, Page 11 of My book](), due: 1402/07/25
+
+## 1402/07/17
 : Simulated Annealing
   : Chapter 3 of My Book
 - **HW**{: .label .label-red }[Python Program of Program 3.1, Page 23 of My book](), due: 1402/07/25
@@ -43,7 +48,7 @@ Discrete Optimization
 * [Simulated Annealing From Scratch in Python](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/)
 * [Simulated Annealing Tutorial, 2D Example](http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing)
 
-## 1402/07/17
+1402/07/22 
 
 ### <a name="L5"></a>Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
@@ -60,7 +65,7 @@ Discrete Optimization
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
 
 
-## 1402/07/22
+ 1402/07/22
 ### <a name="L8"></a>Representative-Based Clustering
 
 - Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
@@ -81,7 +86,7 @@ Sean Borman
 ### <a name="L9"></a>Hierarchical Clustering 
 
         
-## 1402/07/23
+ 1402/07/23
 ### Image Segmentation
 **Paper**{: .label .label-blue }
 
