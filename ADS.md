@@ -44,6 +44,12 @@ Discrete Optimization
 * [Simulated Annealing Tutorial, 2D Example](http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing)
 
 ## 1402/07/17
+* HW1, Solution: **Colab**{: .label .label-green }[Unit Sphere](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw1/fatehinia_data_algo.ipynb)
+* SAT
+* SA, Continue
+
+
+## TBA
 
 ### <a name="L5"></a>Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
@@ -60,7 +66,7 @@ Discrete Optimization
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
 
 
-## 1402/07/22
+## 1402/07/22 - TBA
 ### <a name="L8"></a>Representative-Based Clustering
 
 - Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
