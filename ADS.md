@@ -15,7 +15,7 @@ description: Listing of course modules and topics.
 - Slide: [Introduction to Data Science](https://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf) by Zico Kolter
 - Slide: [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) by Kevin Markham  
 - Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson 
-- **HW**{: .label .label-red }[Generate random points with uniform distribution in the unit sphere](https://vu.um.ac.ir/mod/assign/view.php?id=441612), due date: 1402/07/17
+- **HW**{: .label .label-red }[Generate random points with uniform distribution in the unit sphere](https://vu.um.ac.ir/mod/assign/view.php?id=441612), due date: 1402/07/21 (Extended)
     
 ### <a name="L2"></a>Python Programming
         
@@ -52,7 +52,7 @@ Discrete Optimization
 
 
 ## TBA
-1402/07/22 
+1402/07
 
 ### <a name="L5"></a>Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
@@ -68,8 +68,11 @@ Discrete Optimization
 ### <a name="L4"></a>Image Matting
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
 
+### Image Segmentation
+**Paper**{: .label .label-blue }
 
- 1402/07/22
+
+1402/07
 ### <a name="L8"></a>Representative-Based Clustering
 
 - Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
@@ -89,15 +92,11 @@ Sean Borman
 - Book: [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132) by Shai Shalev-Shwartz and Shai Ben-David 
 ### <a name="L9"></a>Hierarchical Clustering 
 
-        
- 1402/07/23
-### Image Segmentation
-**Paper**{: .label .label-blue }
 
-## 1402/07/29
+1402/07
 **EXAM**{: .label .label-purple }
 
-## 1402/08/01
+## 1402/08
 ### <a name="L8"></a>Hierarchical Clustering
 - Chapter 14 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - **HW**{: .label .label-red } 14.4: Q4 
