@@ -35,14 +35,14 @@ Some Examples:
 - Traveling Salesman Problem
 - Packing & Cutting Problems, [My old Delphi program](https://www.dropbox.com/s/3ztaqqlpki9e2ep/Thesis.zip?dl=1), previous century! My MSc. Project.
 
-**Additional Reading**{: .label .label-yellow }
+**Further Reading**{: .label .label-yellow }
 - [Some published papers about the above programs](https://fumcs.github.io/projects/comb-opt/)
 
 ## 1402/07/15
 : Random Search
   : Chapter 1 & 2 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0) + [My NP-Complete Paper](https://www.dropbox.com/s/gdwuin9xycbvxwa/1379-npcomplete.pdf?dl=0)
 
-**HW3**{: .label .label-red }[Python Code of Program 2.1, Page 11 of My book](), due: 1402/07/25
+**HW3**{: .label .label-red }[Python Code of Program 1.2, Page 11 of My book - RS](https://vu.um.ac.ir/mod/assign/view.php?id=449054&forceview=1), due: 1402/07/25
 
 ## 1402/07/17
 **HW1-Sol**{: .label .label-green }, Solution: **Colab**{: .label .label-green }[Unit Sphere](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw1/fatehinia_data_algo.ipynb)
@@ -50,9 +50,9 @@ Some Examples:
 * SA, Continue
   : Chapter 3 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
 
-**HW4**{: .label .label-red }[Python Code of Program 3.1, Page 23 of My book](), due: 1402/07/25
+**HW4**{: .label .label-red }[Python Code of Program 1.3, Page 23 of My book - SA](https://vu.um.ac.ir/mod/assign/view.php?id=449055&forceview=1), due: 1402/07/26
 
-**Additional Reading**{: .label .label-yellow }
+**Further Reading**{: .label .label-yellow }
 * [Simulated Annealing From Scratch in Python](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/)
 * [Simulated Annealing Tutorial, 2D Example](http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing)
 
@@ -61,13 +61,13 @@ Some Examples:
 : PSO
   : Chapter 6 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
 
-**HW5**{: .label .label-red }Use one the Python packages to find the minimum of f(x)=3sin(x)+(0.1x-3)^2, due: 1402/07/28
+**HW5**{: .label .label-red }Use one the Python packages to find the minimum of f(x)=3sin(x)+(0.1x-3)^2: [PSO for function 1.2](https://vu.um.ac.ir/mod/assign/view.php?id=449056&forceview=1), due: 1402/07/28
 
 Some Python packages for PSO:
   * [Pymoo](https://pymoo.org/algorithms/soo/pso.html)
   * [PySwarms](https://pyswarms.readthedocs.io/en/latest/index.html)
 
-**Additional Reading**{: .label .label-yellow }
+**Further Reading**{: .label .label-yellow }
 - [A Gentle Introduction to Particle Swarm Optimization](https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/)
 - My prvious paper: [A Fish School Clustering Algorithm: Applied to Student Sectioning Problem](https://www.dropbox.com/scl/fi/89p637l3ok3k7zobc1msp/A-Fish-School-Clustering-Algorithm-Applied-to-Student-Sectioning-Problem.pdf?rlkey=0540d3lwox88jdxx781swxd2q&dl=0)
 
@@ -83,7 +83,7 @@ Some Python packages for PSO:
 - Github: [Tutorial for Image Processing in Python](https://github.com/zengsn/image-processing-python) by Shaoning Zeng 
 - Book: [Image processing tutorials](https://github.com/yg42/iptutorials/blob/master/book/tutorials_python.pdf)
     
-**Additional Reading**{: .label .label-yellow }
+**Further Reading**{: .label .label-yellow }
 : [Some published papers](https://fumcs.github.io/projects/computer-vision/)
 
 ### <a name="L4"></a>Image Matting
@@ -104,7 +104,7 @@ Some Python packages for PSO:
 Sean Borman 
 - Tutorial: [What is Bayesian Statistics?](http://www.bandolier.org.uk/painres/download/whatis/What_is_Bay_stats.pdf) by John W Stevens
     
-**Additional Reading**{: .label .label-yellow }
+**Further Reading**{: .label .label-yellow }
     
 - Slide: [Tutorial on Estimation and Multivariate Gaussians](http://ttic.uchicago.edu/~shubhendu/Slides/Estimation.pdf) by Shubhendu Trivedi 
 - Slide: [Mixture Model](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_mixture.pdf) by Jing Gao 
@@ -125,7 +125,7 @@ Sean Borman
 - Slide: [Hierarchical Clustering](http://statweb.stanford.edu/~jtaylo/courses/stats202/restricted/notes/hierarchical.pdf) by Jonathan Taylor 
 - Slide: [Data Structures (Heap)](http://www.cs.nthu.edu.tw/~wkhon/ds/ds11/lecture/lecture4.pdf) by Wing-Kai Hon 
     
-**Additional Reading**{: .label .label-yellow }
+**Further Reading**{: .label .label-yellow }
     
 - Slide: [Hierarchical Clustering for Gene Expression Data Analysis](http://homes.di.unimi.it/valenti/SlideCorsi/MB0910/HierarchicalClustering.pdf) by Giorgio Valentini 
 - Slide: [Hierarchical Clustering](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_hierarchical.pdf) by Jing Gao 
@@ -142,7 +142,7 @@ Sean Borman
 - Slide: [Information Theory](http://www2.eng.cam.ac.uk/~js851/3F1MM13/L1.pdf) by Jossy Sayir 
 - Slide: [Normalized Mutual Information: Estimating Clustering Quality](https://course.ccs.neu.edu/cs6140sp15/7_locality_cluster/Assignment-6/NMI.pdf) by Bilal Ahmed  
     
-**Additional Reading**{: .label .label-yellow }
+**Further Reading**{: .label .label-yellow }
     
 - Slide: [Clustering Evaluation (II)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture23.pdf) by Andrew Rosenberg 
 - Slide: [Evaluation (I)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture22.pdf) by Andrew Rosenberg 
@@ -172,7 +172,7 @@ Ralf Hartmut Güting
 - Slide: [Spectral Clustering](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture21.pdf) by Andrew Rosenberg 
 - Slide: [Introduction to Spectral Clustering](http://www.cvl.isy.liu.se:82/education/graduate/spectral-clustering/SC_course_part1.pdf) by Vasileios Zografos and Klas Nordberg 
     
-**Additional Reading**{: .label .label-yellow }
+**Further Reading**{: .label .label-yellow }
     
 - Slide: [Spectral Methods](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_spectral.pdf) by Jing Gao 
 - Tutorial: [A Tutorial on Spectral Clustering](https://arxiv.org/pdf/0711.0189.pdf) by Ulrike von Luxburg 
@@ -202,7 +202,7 @@ Randal J. Barnes
 ### <a name="L6"></a>Link Analysis         
 - Ranking Graph Vertices, [Page Rank](http://mct.iranjournals.ir/article_263_d3eae82ca520e66df01732cb07fd6841.pdf)
 
-**Additional Reading**{: .label .label-yellow }
+**Further Reading**{: .label .label-yellow }
 
 - Chapter 5 of [Mining of Massive Datasets](http://www.mmds.org)  
 - Slide of Sections 5.1, 5.2 (PageRank, Efficient Computation of PageRank): [Analysis of Large Graphs 1](http://www.mmds.org/mmds/v2.1/ch05-linkanalysis1.pdf)
