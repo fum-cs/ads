@@ -25,7 +25,7 @@ description: Listing of course modules and topics.
 
 ## 1402/07/10
 Discrete Optimization
-: Draft version of [Meta Heuristic Algorithms](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
+: Draft version of My Book[Meta Heuristic Algorithms](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
   : Book
 
 : N-Queen Problem
@@ -36,19 +36,30 @@ Discrete Optimization
 
 ## 1402/07/15
 : Random Search
-  : Chapter 1 & 2 of My Book + [My Paper](https://www.dropbox.com/s/gdwuin9xycbvxwa/1379-npcomplete.pdf?dl=0)
+  : Chapter 1 & 2 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0) + [My Paper](https://www.dropbox.com/s/gdwuin9xycbvxwa/1379-npcomplete.pdf?dl=0)
 - **HW**{: .label .label-red }[Python Code of Program 2.1, Page 11 of My book](), due: 1402/07/25
 
 ## 1402/07/17
 * HW1, Solution: **Colab**{: .label .label-green }[Unit Sphere](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw1/fatehinia_data_algo.ipynb)
 * SAT
 * SA, Continue
-  : Chapter 3 of My Book
+  : Chapter 3 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
 - **HW**{: .label .label-red }[Python Code of Program 3.1, Page 23 of My book](), due: 1402/07/25
 
 **Additional Reading**{: .label .label-yellow }
 * [Simulated Annealing From Scratch in Python](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/)
 * [Simulated Annealing Tutorial, 2D Example](http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing)
+
+
+## 1402/07/22
+: PSO
+  : Chapter 6 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
+- **HW**{: .label .label-red }Use one the Python packages to find the minimum of f(x)=3sin(x)+(0.1x-3)^2, due: 1402/07/28
+- Some Python packages for PSO:
+  * [Pymoo](https://pymoo.org/algorithms/soo/pso.html)
+  * [PySwarms](https://pyswarms.readthedocs.io/en/latest/index.html)
+**Additional Reading**{: .label .label-yellow }
+- [A Gentle Introduction to Particle Swarm Optimization](https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/)
 
 
 ## TBA
