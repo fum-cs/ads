@@ -15,24 +15,26 @@ description: Listing of course modules and topics.
 - Slide: [Introduction to Data Science](https://www.datasciencecourse.org/slides/15388_S22_Lecture_1_intro.pdf) by Zico Kolter
 - Slide: [Introduction to Data Science](https://github.com/justmarkham/DAT8/blob/master/slides/01_intro_to_data_science.pdf) by Kevin Markham  
 - Slide: [Clustering](https://mattdickenson.com/assets/clustering2.pdf) by Matt Dickenson 
-- **HW**{: .label .label-red }[Generate random points with uniform distribution in the unit sphere](https://vu.um.ac.ir/mod/assign/view.php?id=441612), due date: 1402/07/21 (Extended)
+- **HW1**{: .label .label-red }[Generate random points with uniform distribution in the unit sphere](https://vu.um.ac.ir/mod/assign/view.php?id=441612), due date: 1402/07/21 (Extended)
     
 ### <a name="L2"></a>Python Programming
         
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- **HW**{: .label .label-red }[Satisfiability Table](https://vu.um.ac.ir/mod/assign/view.php?id=441616), due date: 1402/07/21 (Extended)
+- **HW2**{: .label .label-red }[Satisfiability Table](https://vu.um.ac.ir/mod/assign/view.php?id=441616), due date: 1402/07/21 (Extended)
 
 
 ## 1402/07/10
 Discrete Optimization
-: Draft version of My Book[Meta Heuristic Algorithms](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
-  : Book
+: Draft version of My Book: [Meta Heuristic Algorithms](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
 
-: N-Queen Problem
-: Knight-Tour, [My old Delphi program](https://www.dropbox.com/s/okfa4lmzf1qqyus/NQueen-KnightTour.zip?dl=1), previous century!
-: Traveling Salesman Problem
-: Packing & Cutting Problems, [My old Delphi program](https://www.dropbox.com/s/3ztaqqlpki9e2ep/Thesis.zip?dl=1), previous century! My MSc. Project.
-: [Some published papers about the above programs](https://fumcs.github.io/projects/comb-opt/)
+Some Examples:
+- N-Queen Problem
+- Knight-Tour, [My old Delphi program](https://www.dropbox.com/s/okfa4lmzf1qqyus/NQueen-KnightTour.zip?dl=1), previous century!
+- Traveling Salesman Problem
+- Packing & Cutting Problems, [My old Delphi program](https://www.dropbox.com/s/3ztaqqlpki9e2ep/Thesis.zip?dl=1), previous century! My MSc. Project.
+
+**Additional Reading**{: .label .label-yellow }
+- [Some published papers about the above programs](https://fumcs.github.io/projects/comb-opt/)
 
 ## 1402/07/15
 : Random Search
@@ -40,11 +42,11 @@ Discrete Optimization
 - **HW**{: .label .label-red }[Python Code of Program 2.1, Page 11 of My book](), due: 1402/07/25
 
 ## 1402/07/17
-* HW1, Solution: **Colab**{: .label .label-green }[Unit Sphere](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw1/fatehinia_data_algo.ipynb)
+* **HW1-Sol**{: .label .label-green }, Solution: **Colab**{: .label .label-green }[Unit Sphere](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw1/fatehinia_data_algo.ipynb)
 * SAT
 * SA, Continue
   : Chapter 3 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
-- **HW**{: .label .label-red }[Python Code of Program 3.1, Page 23 of My book](), due: 1402/07/25
+- **HW3**{: .label .label-red }[Python Code of Program 3.1, Page 23 of My book](), due: 1402/07/25
 
 **Additional Reading**{: .label .label-yellow }
 * [Simulated Annealing From Scratch in Python](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/)
@@ -54,12 +56,16 @@ Discrete Optimization
 ## 1402/07/22
 : PSO
   : Chapter 6 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
-- **HW**{: .label .label-red }Use one the Python packages to find the minimum of f(x)=3sin(x)+(0.1x-3)^2, due: 1402/07/28
-- Some Python packages for PSO:
+
+**HW4**{: .label .label-red }Use one the Python packages to find the minimum of f(x)=3sin(x)+(0.1x-3)^2, due: 1402/07/28
+
+Some Python packages for PSO:
   * [Pymoo](https://pymoo.org/algorithms/soo/pso.html)
   * [PySwarms](https://pyswarms.readthedocs.io/en/latest/index.html)
+
 **Additional Reading**{: .label .label-yellow }
 - [A Gentle Introduction to Particle Swarm Optimization](https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/)
+- My prvious paper: [A Fish School Clustering Algorithm: Applied to Student Sectioning Problem](https://www.dropbox.com/scl/fi/89p637l3ok3k7zobc1msp/A-Fish-School-Clustering-Algorithm-Applied-to-Student-Sectioning-Problem.pdf?rlkey=0540d3lwox88jdxx781swxd2q&dl=0)
 
 
 ## TBA
