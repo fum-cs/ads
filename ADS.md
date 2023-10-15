@@ -7,6 +7,7 @@ description: Listing of course modules and topics.
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr. (Data Mining & Analysis) [PDF](https://fumdrive.um.ac.ir/index.php/f/4160875)
+* [Pattern Recognition](https://darmanto.akakom.ac.id/pengenalanpola/Pattern%20Recognition%204th%20Ed.%20(2009).pdf), by Sergios Theodoridis & ,Konstantinos Koutroumpas, 2009
 * [All Of Statistics: A Concise Course In Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Larry Wassennan (All Of Statistics)
 
 
@@ -71,6 +72,10 @@ Some Python packages for PSO:
 - [A Gentle Introduction to Particle Swarm Optimization](https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/)
 - My prvious paper: [A Fish School Clustering Algorithm: Applied to Student Sectioning Problem](https://www.dropbox.com/scl/fi/89p637l3ok3k7zobc1msp/A-Fish-School-Clustering-Algorithm-Applied-to-Student-Sectioning-Problem.pdf?rlkey=0540d3lwox88jdxx781swxd2q&dl=0)
 
+
+## 1402/07/24
+
+* Chapter 11 & 12 of Pattern Recognition, Theodoridis
 
 ## TBA
 1402/07
