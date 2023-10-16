@@ -76,6 +76,16 @@ Some Python packages for PSO:
 ## 1402/07/24
 
 * Chapter 11 & 12 of Pattern Recognition, Theodoridis
+* Chapeter 11:
+  - Page 602, Section 11.2 PROXIMITY MEASURES - Page 604
+  - Page 606, Section B. Similarity Measures: The inner product & Pearson’s correlation coefficient
+  - Page 607, Discrete-Valued Vectors & contingency table
+  - Page 616, 11.2.3 Proximity Functions between a Point and a Set
+
+* Chapter 12:
+  - 12.1 INTRODUCTION
+  - 12.3 SEQUENTIAL CLUSTERING ALGORITHMS
+
 
 ## TBA
 1402/07
