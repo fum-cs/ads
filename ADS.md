@@ -89,10 +89,10 @@ Some Python packages for PSO:
 ## 1402/07/29
 
 * Stirling Numbers, Recursive Functions & SAT Table
-**Colab**{: .label .label-green }[SAT Table](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw1/SAT_Table.ipynb)
+  - **Colab**{: .label .label-green }[SAT Table](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/SAT_Table.ipynb)
 
 * SAT Table & Brute Force Algorithm for Clustering
-**Colab**{: .label .label-green }[Brute Force Alg for Clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw1/BF-clustering.ipynb)
+  - **Colab**{: .label .label-green }[Brute Force Alg for Clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/BF-clustering.ipynb)
 
 
 ## TBA
