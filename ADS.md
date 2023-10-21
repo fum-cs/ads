@@ -88,8 +88,8 @@ Some Python packages for PSO:
 
 ## 1402/07/29
 * **HW2-Sol**{: .label .label-green }, Solution: 
-  - **Colab**{: .label .label-green }[Unit Sphere](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw2/Fatehinia.ipynb)
-  - **Colab**{: .label .label-green }[Unit Sphere](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw2/Bagherpour.ipynb)
+  - **Colab**{: .label .label-green }[Fatehinia](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw2/Fatehinia.ipynb)
+  - **Colab**{: .label .label-green }[Bagherpour](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/hw2/Bagherpour.ipynb)
 
 * Stirling Numbers, Recursive Functions & SAT Table
   - **Colab**{: .label .label-green }[SAT Table](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/SAT_Table.ipynb)
