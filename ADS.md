@@ -94,8 +94,16 @@ Some Python packages for PSO:
 * Stirling Numbers, Recursive Functions & SAT Table
   - **Colab**{: .label .label-green }[SAT Table](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/SAT_Table.ipynb)
 
+## 1402/08/01
+
 * SAT Table & Brute Force Algorithm for Clustering
   - **Colab**{: .label .label-green }[Brute Force Alg for Clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/BF-clustering.ipynb)
+**HW6**{: .label .label-red } [Generate data & Clustering](https://vu.um.ac.ir/mod/assign/view.php?id=454178), due: 1402/08/04
+**HW7**{: .label .label-red }[BSAS Algorithm](https://vu.um.ac.ir/mod/assign/view.php?id=454181), due: 1402/08/07
+* Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
+  * [Scikit-image documentation](https://scikit-image.org/docs/stable/)
+  * [Scikit-image examples](https://scikit-image.org/docs/stable/auto_examples/index.html)
+
 
 
 ## TBA
