@@ -106,6 +106,8 @@ Some Python packages for PSO:
 * Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
   * [Scikit-image documentation](https://scikit-image.org/docs/stable/)
   * [Scikit-image examples](https://scikit-image.org/docs/stable/auto_examples/index.html)
+  
+**Colab**{: .label .label-green }[Image Segmentation(https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_01.ipynb)
 
 
 
