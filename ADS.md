@@ -116,7 +116,7 @@ Some Python packages for PSO:
    - Page 527/764 ESL, Eq. 14.28: W(C)
    - The problem with one unknown variable becomes a problem with two unknowns!
 * Section 8.3 of [K-means Clustering](https://www.dropbox.com/s/mrxdshg6nx98ojk/kmeans-clustering.pdf?dl=1)
-* **Colab**{: .label .label-green }[Image Segmentation 01](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_02_k-means.ipynb)
+* **Colab**{: .label .label-green }[Image Segmentation 02- kmeans clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_02_k-means.ipynb)
 * Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
 * [Slides (Representative-based Clustering)](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap13.pdf)
 
