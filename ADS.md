@@ -8,7 +8,7 @@ description: Listing of course modules and topics.
 
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr. (Data Mining & Analysis) [PDF](https://fumdrive.um.ac.ir/index.php/f/4160875)
 * [Pattern Recognition](https://darmanto.akakom.ac.id/pengenalanpola/Pattern%20Recognition%204th%20Ed.%20(2009).pdf), by Sergios Theodoridis & ,Konstantinos Koutroumpas, 2009
-* [All Of Statistics: A Concise Course In Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by Larry Wassennan (All Of Statistics)
+* [The Elements of Statistical Learning (ESL)](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
 
 
 ## 1402/07/08
@@ -103,19 +103,31 @@ Some Python packages for PSO:
 
 **HW7**{: .label .label-red }[BSAS Algorithm](https://vu.um.ac.ir/mod/assign/view.php?id=454181), due: 1402/08/07
 
-* **Colab**{: .label .label-green }[Image Segmentation 01](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_01.ipynb)
+### Image Processing and Computer Vision, Intro
 
-* Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
-  * [Scikit-image documentation](https://scikit-image.org/docs/stable/)
-  * [Scikit-image examples](https://scikit-image.org/docs/stable/auto_examples/index.html)
+**Colab**{: .label .label-green }[Image Segmentation 01](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_01.ipynb)
+
   
+## 1402/08/06
 
+### Representative-Based Clustering
 
+* Section 14.3.5 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
+   - Page 527/764 ESL, Eq. 14.28: W(C)
+   - The problem with one unknown variable becomes a problem with two unknowns!
+* Section 8.3 of [K-means Clustering](https://www.dropbox.com/s/mrxdshg6nx98ojk/kmeans-clustering.pdf?dl=1)
+* Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
+* [Slides (Representative-based Clustering)](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap13.pdf)
+
+**Further Reading**{: .label .label-yellow }
+
+* [Lloyd’s, MacQueen’s and Hartigan-Wong’s k-Means](https://towardsdatascience.com/three-versions-of-k-means-cf939b65f4ea)
+* [Convergence in Hartigan-Wong k-means method and other algorithms](https://datascience.stackexchange.com/questions/9858/convergence-in-hartigan-wong-k-means-method-and-other-algorithms)
 
 ## TBA
-1402/07
+1402/08
 
-### <a name="L5"></a>Image Processing and Computer Vision
+### Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
   * [Scikit-image documentation](https://scikit-image.org/docs/stable/)
   * [Scikit-image examples](https://scikit-image.org/docs/stable/auto_examples/index.html)
@@ -133,8 +145,8 @@ Some Python packages for PSO:
 **Paper**{: .label .label-blue }
 
 
-1402/07
-### <a name="L8"></a>Representative-Based Clustering
+1402/08
+### Representative-Based Clustering
 
 - Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - **HW**{: .label .label-red } 13.5: Q2, Q4, Q6, Q7 
