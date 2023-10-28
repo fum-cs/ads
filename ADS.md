@@ -128,6 +128,8 @@ Some Python packages for PSO:
 ## TBA
 1402/08
 
+* [sklearn.datasets.make_blobs](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html)
+
 ### Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
   * [Scikit-image documentation](https://scikit-image.org/docs/stable/)
