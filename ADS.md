@@ -125,10 +125,27 @@ Some Python packages for PSO:
 * [Lloyd’s, MacQueen’s and Hartigan-Wong’s k-Means](https://towardsdatascience.com/three-versions-of-k-means-cf939b65f4ea)
 * [Convergence in Hartigan-Wong k-means method and other algorithms](https://datascience.stackexchange.com/questions/9858/convergence-in-hartigan-wong-k-means-method-and-other-algorithms)
 
-## TBA
-1402/08
+### 1402/08/13
 
 * [sklearn.datasets.make_blobs](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html)
+* Section 14.3.6 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
+   - Page 528/764 ESL, K-means
+
+**Further Reading**{: .label .label-yellow }
+
+* [Clustering, Lecture 14, New York University](https://people.csail.mit.edu/dsontag/courses/ml12/slides/lecture14.pdf) 
+* [CSC 411 Lecture 15: K-Means, University of Toronto](https://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/slides/lec15-slides.pdf)
+* Sec 5.11 of [JakeVanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
+* [كلاسه بندی فازی بهینه دانشجویان با استفاده از یك تابع فازی در حل مسئله برنامه ریزی ژنتیكی دروس هفتگی دانشگاه](https://www.dropbox.com/s/7ohrff9c6im8bye/1382-StudentSectioning.pdf?dl=1)
+* [Bilateral K-Means for Superpixel Computation](https://hal-enpc.archives-ouvertes.fr/hal-03651336/document)
+* [Balanced clustering - Wikipedia](https://en.wikipedia.org/wiki/Balanced_clustering) 
+* [balanced-kmeans · PyPI](https://pypi.org/project/balanced-kmeans/)
+* [subhadarship/kmeans_pytorch: kmeans using PyTorch (github.com)](https://github.com/subhadarship/kmeans_pytorch)
+* [Balanced K-Means for Clustering | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-662-44415-3_4)
+* [Balanced k-Means Revisited | OpenReview](https://openreview.net/forum?id=VndsvZYlMo&amp;referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))
+* [K-Means Factorization](https://www.dropbox.com/s/2fsmpj7i7x3rngy/K-Means%20Factorizaton1512.07548.pdf?dl=1)
+* [K-Means Clustering in Python: A Practical Guide – Real Python](https://realpython.com/k-means-clustering-python/)
+* [Data clustering: 50 years beyond K-means - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167865509002323)
 
 ### Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
@@ -140,6 +157,9 @@ Some Python packages for PSO:
     
 **Further Reading**{: .label .label-yellow }
 : [Some published papers](https://fumcs.github.io/projects/computer-vision/)
+* [الگوریتم مجارستانی - ویکی‌پدیا، دانشنامهٔ آزاد (wikipedia.org)](https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%D9%85%D8%AC%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C)
+
+## TBA
 
 ### <a name="L4"></a>Image Matting
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
