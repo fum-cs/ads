@@ -140,12 +140,12 @@ Some Python packages for PSO:
 * [Bilateral K-Means for Superpixel Computation](https://hal-enpc.archives-ouvertes.fr/hal-03651336/document)
 * [Balanced clustering - Wikipedia](https://en.wikipedia.org/wiki/Balanced_clustering) 
 * [balanced-kmeans · PyPI](https://pypi.org/project/balanced-kmeans/)
-* [subhadarship/kmeans_pytorch: kmeans using PyTorch (github.com)](https://github.com/subhadarship/kmeans_pytorch)
-* [Balanced K-Means for Clustering | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-662-44415-3_4)
-* [Balanced k-Means Revisited | OpenReview](https://openreview.net/forum?id=VndsvZYlMo&amp;referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))
-* [K-Means Factorization](https://www.dropbox.com/s/2fsmpj7i7x3rngy/K-Means%20Factorizaton1512.07548.pdf?dl=1)
+* [K-means using PyTorch (github.com)](https://github.com/subhadarship/kmeans_pytorch)
+* [Balanced K-Means for Clustering](https://link.springer.com/chapter/10.1007/978-3-662-44415-3_4)
+* [Balanced k-Means Revisited](https://openreview.net/forum?id=VndsvZYlMo&amp;referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))
 * [K-Means Clustering in Python: A Practical Guide – Real Python](https://realpython.com/k-means-clustering-python/)
 * [Data clustering: 50 years beyond K-means - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167865509002323)
+* [K-Means Factorization](https://www.dropbox.com/s/2fsmpj7i7x3rngy/K-Means%20Factorizaton1512.07548.pdf?dl=1)
 
 ### Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
@@ -155,11 +155,12 @@ Some Python packages for PSO:
 - Github: [Tutorial for Image Processing in Python](https://github.com/zengsn/image-processing-python) by Shaoning Zeng 
 - Book: [Image processing tutorials](https://github.com/yg42/iptutorials/blob/master/book/tutorials_python.pdf)
     
+
+## TBA
+
 **Further Reading**{: .label .label-yellow }
 : [Some published papers](https://fumcs.github.io/projects/computer-vision/)
 * [الگوریتم مجارستانی - ویکی‌پدیا، دانشنامهٔ آزاد (wikipedia.org)](https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%D9%85%D8%AC%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C)
-
-## TBA
 
 ### <a name="L4"></a>Image Matting
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
