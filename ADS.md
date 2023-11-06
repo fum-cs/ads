@@ -131,6 +131,15 @@ Some Python packages for PSO:
 * Section 14.3.6 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
    - Page 528/764 ESL, K-means
 
+### 1402/08/15
+* Section 14.3.9 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
+   - Page 533/764 Vector Quantization
+
+* **Colab**{: .label .label-green }[Image Segmentation 02- kmeans clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_03_k-means_centers.ipynb)
+
+clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/LVQ.ipynb)
+
+
 **Further Reading**{: .label .label-yellow }
 
 * [Clustering, Lecture 14, New York University](https://people.csail.mit.edu/dsontag/courses/ml12/slides/lecture14.pdf) 
