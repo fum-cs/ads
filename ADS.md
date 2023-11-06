@@ -135,9 +135,9 @@ Some Python packages for PSO:
 * Section 14.3.9 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
    - Page 533/764 Vector Quantization
 
-* **Colab**{: .label .label-green }[Image Segmentation 02- kmeans clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_03_k-means_centers.ipynb)
+* **Colab**{: .label .label-green }[Image Segmentation 03- kmeans clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_03_k-means_centers.ipynb)
 
-clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/LVQ.ipynb)
+* **Colab**{: .label .label-green }[LVQ](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/LVQ.ipynb)
 
 
 **Further Reading**{: .label .label-yellow }
