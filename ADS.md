@@ -139,6 +139,9 @@ Some Python packages for PSO:
 
 * **Colab**{: .label .label-green }[LVQ](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/LVQ.ipynb)
 
+**HW8**{: .label .label-red }[K-means on color images](https://vu.um.ac.ir/mod/assign/view.php?id=458799), due: 1402/08/19
+
+# TBA
 
 **Further Reading**{: .label .label-yellow }
 
@@ -164,8 +167,6 @@ Some Python packages for PSO:
 - Github: [Tutorial for Image Processing in Python](https://github.com/zengsn/image-processing-python) by Shaoning Zeng 
 - Book: [Image processing tutorials](https://github.com/yg42/iptutorials/blob/master/book/tutorials_python.pdf)
     
-
-## TBA
 
 **Further Reading**{: .label .label-yellow }
 : [Some published papers](https://fumcs.github.io/projects/computer-vision/)
