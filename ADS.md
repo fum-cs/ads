@@ -141,6 +141,11 @@ Some Python packages for PSO:
 
 **HW8**{: .label .label-red }[K-means on color images](https://vu.um.ac.ir/mod/assign/view.php?id=458799), due: 1402/08/19
 
+**Further Reading**{: .label .label-yellow }
+
+* [Clustering, Lecture 14, New York University](https://people.csail.mit.edu/dsontag/courses/ml12/slides/lecture14.pdf) 
+* [CSC 411 Lecture 15: K-Means, University of Toronto](https://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/slides/lec15-slides.pdf)
+
 
 # TBA
 
@@ -152,7 +157,7 @@ Some Python packages for PSO:
 * Section 2.5 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
    - Page 41/764 Vector Quantization
 
-* **Colab**{: .label .label-green }[Image Segmentation 03- kmeans clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/CD-KNN.ipynb)
+* **Colab**{: .label .label-green }[The curse of dimensionality-KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/CD-KNN.ipynb)
 
 ## 1402/08/22
 
@@ -165,10 +170,7 @@ Some Python packages for PSO:
 
 * [MLU-Explain double-descent, part 2](https://mlu-explain.github.io/double-descent2/)
 
-**Further Reading**{: .label .label-yellow }
 
-* [Clustering, Lecture 14, New York University](https://people.csail.mit.edu/dsontag/courses/ml12/slides/lecture14.pdf) 
-* [CSC 411 Lecture 15: K-Means, University of Toronto](https://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/slides/lec15-slides.pdf)
 * Sec 5.11 of [JakeVanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
 * [كلاسه بندی فازی بهینه دانشجویان با استفاده از یك تابع فازی در حل مسئله برنامه ریزی ژنتیكی دروس هفتگی دانشگاه](https://www.dropbox.com/s/7ohrff9c6im8bye/1382-StudentSectioning.pdf?dl=1)
 * [Bilateral K-Means for Superpixel Computation](https://hal-enpc.archives-ouvertes.fr/hal-03651336/document)
