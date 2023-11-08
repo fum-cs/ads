@@ -156,6 +156,27 @@ Some Python packages for PSO:
 * [Data clustering: 50 years beyond K-means - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167865509002323)
 * [K-Means Factorization](https://www.dropbox.com/s/2fsmpj7i7x3rngy/K-Means%20Factorizaton1512.07548.pdf?dl=1)
 
+## 1402/08/20
+
+### The curse of dimensionality
+
+* Section 2.5 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
+   - Page 41/764 Vector Quantization
+
+* **Colab**{: .label .label-green }[Image Segmentation 03- kmeans clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/CD-KNN.ipynb)
+
+## 1402/08/22
+
+### Bias-Variance Tradeoff
+* [Wiki](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+* [MLU-Explain bias-variance](https://mlu-explain.github.io/bias-variance/)
+* [MLU-Explain double-descent, part 1](https://mlu-explain.github.io/double-descent/)
+
+**Further Reading**{: .label .label-yellow }
+
+* [MLU-Explain double-descent, part 2](https://mlu-explain.github.io/double-descent2/)
+
+
 ### Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
   * [Scikit-image documentation](https://scikit-image.org/docs/stable/)
