@@ -141,7 +141,29 @@ Some Python packages for PSO:
 
 **HW8**{: .label .label-red }[K-means on color images](https://vu.um.ac.ir/mod/assign/view.php?id=458799), due: 1402/08/19
 
+
 # TBA
+
+
+## 1402/08/20
+
+### The curse of dimensionality
+
+* Section 2.5 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
+   - Page 41/764 Vector Quantization
+
+* **Colab**{: .label .label-green }[Image Segmentation 03- kmeans clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/CD-KNN.ipynb)
+
+## 1402/08/22
+
+### Bias-Variance Tradeoff
+* [Wiki](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+* [MLU-Explain bias-variance](https://mlu-explain.github.io/bias-variance/)
+* [MLU-Explain double-descent, part 1](https://mlu-explain.github.io/double-descent/)
+
+**Further Reading**{: .label .label-yellow }
+
+* [MLU-Explain double-descent, part 2](https://mlu-explain.github.io/double-descent2/)
 
 **Further Reading**{: .label .label-yellow }
 
