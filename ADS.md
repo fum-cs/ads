@@ -70,7 +70,7 @@ Some Python packages for PSO:
 
 **Further Reading**{: .label .label-yellow }
 - [A Gentle Introduction to Particle Swarm Optimization](https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/)
-- My prvious paper: [A Fish School Clustering Algorithm: Applied to Student Sectioning Problem](https://www.dropbox.com/scl/fi/89p637l3ok3k7zobc1msp/A-Fish-School-Clustering-Algorithm-Applied-to-Student-Sectioning-Problem.pdf?rlkey=0540d3lwox88jdxx781swxd2q&dl=0)
+- **Paper**{: .label .label-blue }: [A Fish School Clustering Algorithm: Applied to Student Sectioning Problem](https://www.dropbox.com/scl/fi/89p637l3ok3k7zobc1msp/A-Fish-School-Clustering-Algorithm-Applied-to-Student-Sectioning-Problem.pdf?rlkey=0540d3lwox88jdxx781swxd2q&dl=0)
 
 
 ## 1402/07/24
@@ -170,9 +170,12 @@ Some Python packages for PSO:
 
 * [MLU-Explain double-descent, part 2](https://mlu-explain.github.io/double-descent2/)
 
+**Paper**{: .label .label-blue }[Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/doi/10.1073/pnas.1903070116#:~:text=This%20%E2%80%9Cdouble%2Ddescent%E2%80%9D%20curve,interpolation%20results%20in%20improved%20performance.)
 
 * Sec 5.11 of [JakeVanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
-* [كلاسه بندی فازی بهینه دانشجویان با استفاده از یك تابع فازی در حل مسئله برنامه ریزی ژنتیكی دروس هفتگی دانشگاه](https://www.dropbox.com/s/7ohrff9c6im8bye/1382-StudentSectioning.pdf?dl=1)
+
+**Paper**{: .label .label-blue } [كلاسه بندی فازی بهینه دانشجویان با استفاده از یك تابع فازی در حل مسئله برنامه ریزی ژنتیكی دروس هفتگی دانشگاه](https://www.dropbox.com/s/7ohrff9c6im8bye/1382-StudentSectioning.pdf?dl=1)
+
 * [Bilateral K-Means for Superpixel Computation](https://hal-enpc.archives-ouvertes.fr/hal-03651336/document)
 * [Balanced clustering - Wikipedia](https://en.wikipedia.org/wiki/Balanced_clustering) 
 * [balanced-kmeans · PyPI](https://pypi.org/project/balanced-kmeans/)
