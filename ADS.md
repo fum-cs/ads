@@ -157,9 +157,9 @@ Some Python packages for PSO:
 * Section 2.5 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
    - Page 41/764 Vector Quantization
 
-* **Colab**{: .label .label-green }[The curse of dimensionality-KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/CD-KNN.ipynb)
+* **Colab**{: .label .label-green }[The curse of dimensionality-KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/CD_KNN.ipynb)
 
-* **Colab**{: .label .label-green }[Clustering of images](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image-clustering.ipynb)
+* **Colab**{: .label .label-green }[Clustering of images](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering.ipynb)
 
 ## 1402/08/22
 
