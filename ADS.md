@@ -159,6 +159,8 @@ Some Python packages for PSO:
 
 * **Colab**{: .label .label-green }[The curse of dimensionality-KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/CD-KNN.ipynb)
 
+* **Colab**{: .label .label-green }[Clustering of images](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image-clustering.ipynb)
+
 ## 1402/08/22
 
 ### Bias-Variance Tradeoff
@@ -169,8 +171,11 @@ Some Python packages for PSO:
 **Further Reading**{: .label .label-yellow }
 
 * [MLU-Explain double-descent, part 2](https://mlu-explain.github.io/double-descent2/)
+* [Sec 22.3 of Zaki](https://fumdrive.um.ac.ir/index.php/f/4160875)
 
 **Paper**{: .label .label-blue }[Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/doi/10.1073/pnas.1903070116#:~:text=This%20%E2%80%9Cdouble%2Ddescent%E2%80%9D%20curve,interpolation%20results%20in%20improved%20performance.)
+
+**Paper**{: .label .label-blue }[Understanding the double descent curve in Machine Learning](https://arxiv.org/abs/2211.10322)
 
 * Sec 5.11 of [JakeVanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
 
