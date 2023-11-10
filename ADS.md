@@ -152,16 +152,18 @@ Some Python packages for PSO:
 
 ## 1402/08/20
 
-### The curse of dimensionality
+### High Dimensional Data
 
 * Section 2.5 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
    - Page 41/764 Vector Quantization
 
-* **Colab**{: .label .label-green }[The curse of dimensionality-KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/CD_KNN.ipynb)
-
 * Slides [Chap. 1 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap1.pdf)
 
 * Slides [Chap. 6 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap6.pdf)
+
+* **Colab**{: .label .label-green }[High Dimensional Data - The curse of dimensionality](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/high_dim_and_CD.ipynb)
+
+* **Colab**{: .label .label-green }[High Dimensional Data - KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/high_dim_and_KNN.ipynb)
 
 * **Colab**{: .label .label-green }[Clustering of images](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering.ipynb)
 
