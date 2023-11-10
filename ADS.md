@@ -154,6 +154,8 @@ Some Python packages for PSO:
 
 ### High Dimensional Data
 
+* [The curse of dimensionality, Candy example](misc/Curse%20of%20Dimensionality%20-%20Candy-Example.pdf)
+
 * Section 2.5 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
    - Page 41/764 Local Methods in High Dimensions
 
