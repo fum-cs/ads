@@ -155,7 +155,7 @@ Some Python packages for PSO:
 ### High Dimensional Data
 
 * Section 2.5 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
-   - Page 41/764 Vector Quantization
+   - Page 41/764 Local Methods in High Dimensions
 
 * Slides [Chap. 1 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap1.pdf)
 
@@ -165,7 +165,7 @@ Some Python packages for PSO:
 
 * **Colab**{: .label .label-green }[High Dimensional Data - KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/high_dim_and_KNN.ipynb)
 
-* **Colab**{: .label .label-green }[Clustering of images](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering.ipynb)
+* **Colab**{: .label .label-green }[Clustering of images, as high dim. data](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering.ipynb)
 
 ## 1402/08/22
 
