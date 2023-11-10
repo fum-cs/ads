@@ -159,6 +159,10 @@ Some Python packages for PSO:
 
 * **Colab**{: .label .label-green }[The curse of dimensionality-KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/CD_KNN.ipynb)
 
+* Slides [Chap. 1 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap1.pdf)
+
+* Slides [Chap. 6 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap6.pdf)
+
 * **Colab**{: .label .label-green }[Clustering of images](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering.ipynb)
 
 ## 1402/08/22
