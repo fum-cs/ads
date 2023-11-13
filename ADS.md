@@ -6,9 +6,10 @@ description: Listing of course modules and topics.
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 
-* [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr. (Data Mining & Analysis) [PDF](https://fumdrive.um.ac.ir/index.php/f/4160875)
-* [Pattern Recognition](https://darmanto.akakom.ac.id/pengenalanpola/Pattern%20Recognition%204th%20Ed.%20(2009).pdf), by Sergios Theodoridis & ,Konstantinos Koutroumpas, 2009
+* [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr., 2021 (Data Mining & Analysis) [PDF](https://fumdrive.um.ac.ir/index.php/f/4160875)
+* [Pattern Recognition](https://darmanto.akakom.ac.id/pengenalanpola/Pattern%20Recognition%204th%20Ed.%20(2009).pdf), by Sergios Theodoridis  and Konstantinos Koutroumpas, 2009
 * [The Elements of Statistical Learning (ESL)](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
+* [Foundations of Data Science (FDS)](https://www.cs.cornell.edu/jeh/book.pdf), by Avrim Blum, John Hopcroft, and Ravindran Kannan, 2018
 
 
 ## 1402/07/08
@@ -147,10 +148,7 @@ Some Python packages for PSO:
 * [CSC 411 Lecture 15: K-Means, University of Toronto](https://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/slides/lec15-slides.pdf)
 
 
-# TBA
-
-
-## 1402/08/20
+## 1402/08/20,22
 
 ### High Dimensional Data
 
@@ -165,11 +163,13 @@ Some Python packages for PSO:
 
 * **Colab**{: .label .label-green }[High Dimensional Data - The curse of dimensionality](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/high_dim_and_CD.ipynb)
 
+**HW9**{: .label .label-red }[Page 15 of FDS - Orthogonality of d-dimensional Gaussian vectors](https://vu.um.ac.ir/mod/assign/view.php?id=460674), due: 1402/08/26
+
 * **Colab**{: .label .label-green }[High Dimensional Data - KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/high_dim_and_KNN.ipynb)
 
 * **Colab**{: .label .label-green }[Clustering of images, as high dim. data](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering.ipynb)
 
-## 1402/08/22
+# TBA
 
 ### Bias-Variance Tradeoff
 * [Wiki](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
