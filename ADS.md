@@ -169,6 +169,15 @@ Some Python packages for PSO:
 
 * **Colab**{: .label .label-green }[Clustering of images, as high dim. data](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering.ipynb)
 
+**Further Reading**{: .label .label-yellow }
+* [Random Projection: Theory and Implementation in Python with Scikit-Learn](https://stackabuse.com/random-projection-theory-and-implementation-in-python-with-scikit-learn/)
+* [Johnson–Lindenstrauss lemma](https://en.wikipedia.org/wiki/Johnson%E2%80%93Lindenstrauss_lemma)
+* [Gaussian random projection](https://en.wikipedia.org/wiki/Random_projection)
+* [Scikit-learn: The Johnson-Lindenstrauss bound for embedding with random projections](https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_johnson_lindenstrauss_bound.html#sphx-glr-auto-examples-miscellaneous-plot-johnson-lindenstrauss-bound-py)
+* Paper: [Supervised dimensionality reduction for big data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8129083/)
+* Paper: [An Introduction to Johnson–Lindenstrauss Transforms
+](https://arxiv.org/pdf/2103.00564.pdf)
+
 # TBA
 
 ### Bias-Variance Tradeoff
