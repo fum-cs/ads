@@ -177,6 +177,9 @@ Some Python packages for PSO:
 * Paper: [Supervised dimensionality reduction for big data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8129083/)
 * Paper: [An Introduction to Johnson–Lindenstrauss Transforms
 ](https://arxiv.org/pdf/2103.00564.pdf)
+* [Sketching Algorithms for Big Data, Harvard](https://www.sketchingbigdata.org/fall17/)
+  - [JL Lemma, History of lower bounds](https://www.sketchingbigdata.org/fall17/lec/lec5.pdf)
+  - [JL Lower bound Optimality](https://www.sketchingbigdata.org/fall17/lec/lec6.pdf)
 
 # TBA
 
