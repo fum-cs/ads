@@ -193,9 +193,10 @@ Some Python packages for PSO:
 * [MLU-Explain double-descent, part 2](https://mlu-explain.github.io/double-descent2/)
 * [The Bias-Variance Tradeoff: A Newbie’s Guide, by a Newbie](https://medium.com/@DeepthiTabithaBennet/the-bias-variance-tradeoff-a-newbies-guide-by-a-newbie-95fb03dbebcb)
 * [bias-variance-trade-off](https://spotintelligence.com/2023/04/11/bias-variance-trade-off/)
+
 **Paper**{: .label .label-blue }[Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/doi/10.1073/pnas.1903070116)
-  - [Double Descent](https://medium.com/mlearning-ai/double-descent-8f92dfdc442f)
-  - [Reproducing Deep Double Descent](https://hippocampus-garden.com/double_descent/)
+  - [Double Descent](https://medium.com/mlearning-ai/double-descent-8f92dfdc442f)[Highlights](misc/medium-com_mlearning-ai_double-descent-highlightes.md)
+  - [Reproducing Deep Double Descent](https://hippocampus-garden.com/double_descent/), [Highlights](misc/hippocampus-garden-com_double_descent-abstract)
     + [deep_double_descent, colab](https://colab.research.google.com/drive/1lT2dUqal90NbLVQIGvseyAdKzH19MH2T?usp=sharing)
 * [Sec 22.3 of Zaki](https://fumdrive.um.ac.ir/index.php/f/4160875)
 
