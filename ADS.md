@@ -195,8 +195,8 @@ Some Python packages for PSO:
 * [bias-variance-trade-off](https://spotintelligence.com/2023/04/11/bias-variance-trade-off/)
 
 **Paper**{: .label .label-blue }[Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/doi/10.1073/pnas.1903070116)
-  - [Double Descent](https://medium.com/mlearning-ai/double-descent-8f92dfdc442f)[Highlights](misc/medium-com_mlearning-ai_double-descent-highlightes.md)
-  - [Reproducing Deep Double Descent](https://hippocampus-garden.com/double_descent/), [Highlights](misc/hippocampus-garden-com_double_descent-abstract)
+  - [Double Descent](https://medium.com/mlearning-ai/double-descent-8f92dfdc442f), [Highlights](misc/medium-com_mlearning-ai_double-descent-highlightes.md)
+  - [Reproducing Deep Double Descent](https://hippocampus-garden.com/double_descent/), [Highlights](misc/hippocampus-garden-com_double_descent-highlightes.md)
     + [deep_double_descent, colab](https://colab.research.google.com/drive/1lT2dUqal90NbLVQIGvseyAdKzH19MH2T?usp=sharing)
 * [Sec 22.3 of Zaki](https://fumdrive.um.ac.ir/index.php/f/4160875)
 
@@ -220,6 +220,7 @@ Some Python packages for PSO:
 * [K-Means Clustering in Python: A Practical Guide – Real Python](https://realpython.com/k-means-clustering-python/)
 * [Data clustering: 50 years beyond K-means - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167865509002323)
 * [K-Means Factorization](https://www.dropbox.com/s/2fsmpj7i7x3rngy/K-Means%20Factorizaton1512.07548.pdf?dl=1)
+* [Clustering IRIS dataset with particle swarm optimization(PSO)](https://github.com/NiloofarShahbaz/PSOClustering)
 
 ### Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
