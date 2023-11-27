@@ -210,10 +210,12 @@ Some Python packages for PSO:
 * Chapter 17 of [Data Mining & Analysis](https://dataminingbook.info/)  
 * [Clustering Validation](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap17.pdf)
 * [Wiki: Graph Matching](https://fa.wikipedia.org/wiki/%D8%AA%D8%B7%D8%A7%D8%A8%D9%82_(%DA%AF%D8%B1%D8%A7%D9%81))
+
 **Colab**{: .label .label-green }[bi-partiate-graph-maximum-matching](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/bi-partiate-graph-maximum-matching.ipynb)
 
 **Further Reading**{: .label .label-yellow }
 * [MSc. Project: Graph Cut](http://hcloud.hsu.ac.ir/index.php/s/OtehB4LUQFv8cla)
+
 **Paper**{: .label .label-blue }:[Graph Matching and local search](https://www.dropbox.com/s/y9cb52otfdnrsin/1396-AIMC48-Ezzati-Graph%20Matching%20and%20Stochastic%20Search.pdf?dl=11)
 
 # TBA
