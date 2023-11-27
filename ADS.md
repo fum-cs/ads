@@ -71,7 +71,8 @@ Some Python packages for PSO:
 
 **Further Reading**{: .label .label-yellow }
 - [A Gentle Introduction to Particle Swarm Optimization](https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/)
-- **Paper**{: .label .label-blue }: [A Fish School Clustering Algorithm: Applied to Student Sectioning Problem](https://www.dropbox.com/scl/fi/89p637l3ok3k7zobc1msp/A-Fish-School-Clustering-Algorithm-Applied-to-Student-Sectioning-Problem.pdf?rlkey=0540d3lwox88jdxx781swxd2q&dl=0)
+
+**Paper**{: .label .label-blue }: [A Fish School Clustering Algorithm: Applied to Student Sectioning Problem](https://www.dropbox.com/scl/fi/89p637l3ok3k7zobc1msp/A-Fish-School-Clustering-Algorithm-Applied-to-Student-Sectioning-Problem.pdf?rlkey=0540d3lwox88jdxx781swxd2q&dl=0)
 
 
 ## 1402/07/24
@@ -165,17 +166,18 @@ Some Python packages for PSO:
 
 **HW9**{: .label .label-red }[Page 15 of FDS - Orthogonality of d-dimensional Gaussian vectors](https://vu.um.ac.ir/mod/assign/view.php?id=460674), due: 1402/08/26
 
-* **Colab**{: .label .label-green }[High Dimensional Data - KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/high_dim_and_KNN.ipynb)
+**Colab**{: .label .label-green }[High Dimensional Data - KNN](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/high_dim_and_KNN.ipynb)
 
-* **Colab**{: .label .label-green }[Clustering of images, as high dim. data](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering.ipynb)
+**Colab**{: .label .label-green }[Clustering of images, as high dim. data](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering.ipynb)
 
 **Further Reading**{: .label .label-yellow }
 * [Random Projection: Theory and Implementation in Python with Scikit-Learn](https://stackabuse.com/random-projection-theory-and-implementation-in-python-with-scikit-learn/)
 * [Johnson–Lindenstrauss lemma](https://en.wikipedia.org/wiki/Johnson%E2%80%93Lindenstrauss_lemma)
 * [Gaussian random projection](https://en.wikipedia.org/wiki/Random_projection)
 * [Scikit-learn: The Johnson-Lindenstrauss bound for embedding with random projections](https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_johnson_lindenstrauss_bound.html#sphx-glr-auto-examples-miscellaneous-plot-johnson-lindenstrauss-bound-py)
-* Paper: [Supervised dimensionality reduction for big data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8129083/)
-* Paper: [An Introduction to Johnson–Lindenstrauss Transforms
+
+**Paper**{: .label .label-blue }: [Supervised dimensionality reduction for big data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8129083/)
+**Paper**{: .label .label-blue }: [An Introduction to Johnson–Lindenstrauss Transforms
 ](https://arxiv.org/pdf/2103.00564.pdf)
 * [Sketching Algorithms for Big Data, Harvard](https://www.sketchingbigdata.org/fall17/)
   - [JL Lemma, History of lower bounds](https://www.sketchingbigdata.org/fall17/lec/lec5.pdf)
@@ -201,6 +203,18 @@ Some Python packages for PSO:
 * [Sec 22.3 of Zaki](https://fumdrive.um.ac.ir/index.php/f/4160875)
 
 **Paper**{: .label .label-blue }[Understanding the double descent curve in Machine Learning](https://arxiv.org/abs/2211.10322)
+
+# 1402/09/06
+
+* [Chapter 5 of VanderPlas: In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
+* Chapter 17 of [Data Mining & Analysis](https://dataminingbook.info/)  
+* [Clustering Validation](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap17.pdf)
+* [Wiki: Graph Matching](https://fa.wikipedia.org/wiki/%D8%AA%D8%B7%D8%A7%D8%A8%D9%82_(%DA%AF%D8%B1%D8%A7%D9%81))
+**Colab**{: .label .label-green }[bi-partiate-graph-maximum-matching](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/bi-partiate-graph-maximum-matching.ipynb)
+
+**Further Reading**{: .label .label-yellow }
+* [MSc. Project: Graph Cut](http://hcloud.hsu.ac.ir/index.php/s/OtehB4LUQFv8cla)
+**Paper**{: .label .label-blue }:[Graph Matching and local search](https://www.dropbox.com/s/y9cb52otfdnrsin/1396-AIMC48-Ezzati-Graph%20Matching%20and%20Stochastic%20Search.pdf?dl=11)
 
 # TBA
 
