@@ -176,8 +176,9 @@ Some Python packages for PSO:
 * [Gaussian random projection](https://en.wikipedia.org/wiki/Random_projection)
 * [Scikit-learn: The Johnson-Lindenstrauss bound for embedding with random projections](https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_johnson_lindenstrauss_bound.html#sphx-glr-auto-examples-miscellaneous-plot-johnson-lindenstrauss-bound-py)
 
-**Paper**{: .label .label-blue }: [Supervised dimensionality reduction for big data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8129083/)
-**Paper**{: .label .label-blue }: [An Introduction to Johnson–Lindenstrauss Transforms
+**Paper**{: .label .label-blue }[Supervised dimensionality reduction for big data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8129083/)
+
+**Paper**{: .label .label-blue }[An Introduction to Johnson–Lindenstrauss Transforms
 ](https://arxiv.org/pdf/2103.00564.pdf)
 * [Sketching Algorithms for Big Data, Harvard](https://www.sketchingbigdata.org/fall17/)
   - [JL Lemma, History of lower bounds](https://www.sketchingbigdata.org/fall17/lec/lec5.pdf)
@@ -204,14 +205,17 @@ Some Python packages for PSO:
 
 **Paper**{: .label .label-blue }[Understanding the double descent curve in Machine Learning](https://arxiv.org/abs/2211.10322)
 
-# 1402/09/06,11
+# 1402/09/06,11,13
 
 * [Chapter 5 of VanderPlas: In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
 * Chapter 17 of [Data Mining & Analysis](https://dataminingbook.info/)  
 * [Clustering Validation](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap17.pdf)
 * [Matching in Bipartite Graphs](https://math.libretexts.org/Courses/Saint_Mary%27s_College_Notre_Dame_IN/SMC%3A_MATH_339_-_Discrete_Mathematics_(Rohatgi)/Text/5%3A_Graph_Theory/5.6%3A_Matching_in_Bipartite_Graphs)
+* [Silhouette, Clustering Evaluation](https://en.wikipedia.org/wiki/Silhouette_(clustering))
 
 **Colab**{: .label .label-green }[bi-partiate-graph-maximum-matching](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/bi-partiate-graph-maximum-matching.ipynb)
+
+**Colab**{: .label .label-green }[Silhouette](https://colab.research.google.com/github//github/fum-cs/fds/blob/main/code/Silhouette-clustering.ipynb)
 
 **Further Reading**{: .label .label-yellow }
 * [MSc. Project: Graph Cut](http://hcloud.hsu.ac.ir/index.php/s/OtehB4LUQFv8cla)
@@ -221,7 +225,7 @@ Some Python packages for PSO:
 
 **Paper**{: .label .label-blue }[Graph Matching and local search](https://www.dropbox.com/s/y9cb52otfdnrsin/1396-AIMC48-Ezzati-Graph%20Matching%20and%20Stochastic%20Search.pdf?dl=11)
 
-**Paper**{: .label .label-blue }[Graph Feature Selection for Anti-Cancer Plant Recommendation](https://github.com/mamintoosi/FS-in-Bio-Graphs)
+**Paper**{: .label .label-blue }[Graph Feature Selection for Anti-Cancer Plant Recommendation](https://mathco.journals.pnu.ac.ir/article_10067.html)
 
 # TBA
 
