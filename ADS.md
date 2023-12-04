@@ -137,9 +137,9 @@ Some Python packages for PSO:
 * Section 14.3.9 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
    - Page 533/764 Vector Quantization
 
-* **Colab**{: .label .label-green }[Image Segmentation 03- kmeans clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_03_k-means_centers.ipynb)
+**Colab**{: .label .label-green }[Image Segmentation 03- kmeans clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_03_k-means_centers.ipynb)
 
-* **Colab**{: .label .label-green }[LVQ](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/LVQ.ipynb)
+**Colab**{: .label .label-green }[LVQ](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/LVQ.ipynb)
 
 **HW8**{: .label .label-red }[K-means on color images](https://vu.um.ac.ir/mod/assign/view.php?id=458799), due: 1402/08/19
 
@@ -162,7 +162,7 @@ Some Python packages for PSO:
 
 * Slides [Chap. 6 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap6.pdf)
 
-* **Colab**{: .label .label-green }[High Dimensional Data - The curse of dimensionality](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/high_dim_and_CD.ipynb)
+**Colab**{: .label .label-green }[High Dimensional Data - The curse of dimensionality](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/high_dim_and_CD.ipynb)
 
 **HW9**{: .label .label-red }[Page 15 of FDS - Orthogonality of d-dimensional Gaussian vectors](https://vu.um.ac.ir/mod/assign/view.php?id=460674), due: 1402/08/26
 
@@ -212,8 +212,7 @@ Some Python packages for PSO:
 * [Clustering Validation](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap17.pdf)
 * [Matching in Bipartite Graphs](https://math.libretexts.org/Courses/Saint_Mary%27s_College_Notre_Dame_IN/SMC%3A_MATH_339_-_Discrete_Mathematics_(Rohatgi)/Text/5%3A_Graph_Theory/5.6%3A_Matching_in_Bipartite_Graphs)
 * [Silhouette, Clustering Evaluation](https://en.wikipedia.org/wiki/Silhouette_(clustering))
-* [BetaCV](misc/BetaCV.md)
-* [C-Index](misc/C-Index.md)
+* [Clustering Evaluations](misc/Clustering-Evaluation-Measures.md)
 
 **Colab**{: .label .label-green }[bi-partiate-graph-maximum-matching](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/bi-partiate-graph-maximum-matching.ipynb)
 
