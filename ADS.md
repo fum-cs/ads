@@ -376,6 +376,7 @@ Randal J. Barnes
 ## 1402 Winter
 ### <a name="L6"></a>Link Analysis         
 - Ranking Graph Vertices, [Page Rank](http://mct.iranjournals.ir/article_263_d3eae82ca520e66df01732cb07fd6841.pdf)
+- [Linear Algebra and Technology](https://tmsj.um.ac.ir/article_42621_7382212ff95b4771e39264078f80ba37.pdf)
 
 **Further Reading**{: .label .label-yellow }
 
