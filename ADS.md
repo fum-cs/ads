@@ -212,10 +212,12 @@ Some Python packages for PSO:
 * [Clustering Validation](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap17.pdf)
 * [Matching in Bipartite Graphs](https://math.libretexts.org/Courses/Saint_Mary%27s_College_Notre_Dame_IN/SMC%3A_MATH_339_-_Discrete_Mathematics_(Rohatgi)/Text/5%3A_Graph_Theory/5.6%3A_Matching_in_Bipartite_Graphs)
 * [Silhouette, Clustering Evaluation](https://en.wikipedia.org/wiki/Silhouette_(clustering))
+* [BetaCV](misc/BetaCV.md)
+* [C-Index](misc/C-Index.md)
 
 **Colab**{: .label .label-green }[bi-partiate-graph-maximum-matching](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/bi-partiate-graph-maximum-matching.ipynb)
 
-**Colab**{: .label .label-green }[Silhouette](https://colab.research.google.com/github//github/fum-cs/fds/blob/main/code/Silhouette-clustering.ipynb)
+**Colab**{: .label .label-green }[Silhouette](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/Silhouette-clustering.ipynb)
 
 **Further Reading**{: .label .label-yellow }
 * [MSc. Project: Graph Cut](http://hcloud.hsu.ac.ir/index.php/s/OtehB4LUQFv8cla)
