@@ -184,7 +184,7 @@ Some Python packages for PSO:
   - [JL Lemma, History of lower bounds](https://www.sketchingbigdata.org/fall17/lec/lec5.pdf)
   - [JL Lower bound Optimality](https://www.sketchingbigdata.org/fall17/lec/lec6.pdf)
 
-# 1402/09/04
+## 1402/09/04
 
 ### Bias-Variance Tradeoff
 * [Wiki](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
@@ -205,7 +205,7 @@ Some Python packages for PSO:
 
 **Paper**{: .label .label-blue }[Understanding the double descent curve in Machine Learning](https://arxiv.org/abs/2211.10322)
 
-# 1402/09/06,11,13
+## 1402/09/06,11,13
 
 * [Chapter 5 of VanderPlas: In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
 * Chapter 17 of [Data Mining & Analysis](https://dataminingbook.info/)  
@@ -229,11 +229,13 @@ Some Python packages for PSO:
 **Paper**{: .label .label-blue }[Graph Feature Selection for Anti-Cancer Plant Recommendation](https://mathco.journals.pnu.ac.ir/article_10067.html)
 
 
-# 1402/09/18
+## 1402/09/18
 
 * [Principal Component Analysis explained visually](https://setosa.io/ev/principal-component-analysis/)
 * [PRML-PCA Slides](https://www.dropbox.com/s/ftw3f8wvx07gos9/PRML_ch12_sec1.pdf?dl=0)
-* [In Depth: Principal Component Analysis | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
+  - [Matrix Differentiation](misc/MatrixCalculus.pdf) by 
+Randal J. Barnes
+* [In Depth: Principal Component Analysis, Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
 * [Chapter 7 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap7.pdf)
 
 **Colab**{: .label .label-green }[PCA-01](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/PCA/PCA_01.ipynb)
@@ -249,7 +251,10 @@ Some Python packages for PSO:
     - [Face dataset](http://vis-www.cs.umass.edu/lfw/alpha_all_35.html)
 * [An Introduction to Principal Component Analysis (PCA) with 2018 World Soccer Players Data](https://blog.exploratory.io/an-introduction-to-principal-component-analysis-pca-with-2018-world-soccer-players-data-810d84a14eab)
 * [Using PCA to See Which Countries have Better Players for World Cup Games](https://blog.exploratory.io/using-pca-to-see-which-countries-have-better-players-for-world-cup-games-a72f91698b95)
+
 **Paper**{: .label .label-blue }[Eigenbackground Revisited](https://github.com/mamintoosi/Eigenbackground-Revisited)
+
+**Colab**{: .label .label-green }[PCA-01](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/PCA/PCA_01.ipynb)
 
 
 
@@ -293,7 +298,7 @@ Some Python packages for PSO:
 **Paper**{: .label .label-blue }
 
 
-1402/08
+1402/09
 ### Representative-Based Clustering
 
 - Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
@@ -314,10 +319,10 @@ Sean Borman
 ### <a name="L9"></a>Hierarchical Clustering 
 
 
-1402/07
+1402/09
 **EXAM**{: .label .label-purple }
 
-## 1402/08
+## 1402/09
 ### <a name="L8"></a>Hierarchical Clustering
 - Chapter 14 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - **HW**{: .label .label-red } 14.4: Q4 
@@ -347,24 +352,23 @@ Sean Borman
 - Slide: [Clustering Evaluation (II)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture23.pdf) by Andrew Rosenberg 
 - Slide: [Evaluation (I)](http://eniac.cs.qc.cuny.edu/andrew/gcml/lecture22.pdf) by Andrew Rosenberg 
 
-## 1402 Fall
+## 1402 Winter
 ### <a name="L10"></a>Density-Based Clustering
 - Chapter 15 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - Slides of Section 15.1 (Density-based Clustering): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap15.pdf)
 - Slide: [Spatial Database Systems](http://dna.fernuni-hagen.de/Tutorial-neu.pdf) by 
 Ralf Hartmut Güting 
 
-## 1402 Fall
+## 1402 Winter
 ### <a name="L11"></a>Kernel Method
     
 - Chapter 5 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - Kernel-Kmeans Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/) 
 - **HW**{: .label .label-red } TBA
 
-## 1402/08/xx
 **EXAM**{: .label .label-purple }
 
-## 1402 Fall
+## 1402 Winter
 ### <a name="L11"></a>Spectral and Graph Clustering  
 - Chapter 16 of [Data Mining & Analysis](https://dataminingbook.info/)  
     **Exercises** 16.5: Q2, Q3, Q6 
