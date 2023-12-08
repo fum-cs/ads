@@ -238,7 +238,7 @@ Randal J. Barnes
 * [In Depth: Principal Component Analysis, Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
 * [Chapter 7 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap7.pdf)
 
-**Colab**{: .label .label-green }[PCA-01](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/PCA/PCA_01.ipynb)
+**Colab**{: .label .label-green }[PCA-01](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/PCA/PCA_01.ipynb)
 
 **Kaggle**{: .label .label-green }[Country Profiling Using PCA and Clustering](https://www.kaggle.com/leo2510/country-clustering-and-pca-analysis)
 
@@ -254,8 +254,9 @@ Randal J. Barnes
 
 **Paper**{: .label .label-blue }[Eigenbackground Revisited](https://github.com/mamintoosi/Eigenbackground-Revisited)
 
-**Colab**{: .label .label-green }[PCA-01](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/PCA/PCA_01.ipynb)
+**Colab**{: .label .label-green }[SVD-01](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/SVD/SVD_01.ipynb)
 
+**Colab**{: .label .label-green }[SVD for Image Compression](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/SVD/svd_image_compression.ipynb)
 
 
 # TBA
