@@ -232,10 +232,12 @@ Some Python packages for PSO:
 ## 1402/09/18
 
 * [Principal Component Analysis explained visually](https://setosa.io/ev/principal-component-analysis/)
+* [In Depth: Principal Component Analysis, Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
+  - [A geometric interpretation of the covariance matrix](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
+  - [A geometric interpretation of ... (In Persian)](https://www.dropbox.com/s/pqnemuis96vebuu/main.pdf?dl=0)
 * [PRML-PCA Slides](https://www.dropbox.com/s/ftw3f8wvx07gos9/PRML_ch12_sec1.pdf?dl=0)
   - [Matrix Differentiation](misc/MatrixCalculus.pdf) by 
 Randal J. Barnes
-* [In Depth: Principal Component Analysis, Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
 * [Chapter 7 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap7.pdf)
 
 **Colab**{: .label .label-green }[PCA-01](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/PCA/PCA_01.ipynb)
