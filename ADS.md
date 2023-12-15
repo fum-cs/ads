@@ -233,8 +233,6 @@ Some Python packages for PSO:
 
 * [Principal Component Analysis explained visually](https://setosa.io/ev/principal-component-analysis/)
 * [In Depth: Principal Component Analysis, Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
-  - [A geometric interpretation of the covariance matrix](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
-  - [A geometric interpretation of ... (In Persian)](https://www.dropbox.com/s/pqnemuis96vebuu/main.pdf?dl=0)
 * [PRML-PCA Slides](https://www.dropbox.com/s/ftw3f8wvx07gos9/PRML_ch12_sec1.pdf?dl=0)
   - [Matrix Differentiation](misc/MatrixCalculus.pdf) by 
 Randal J. Barnes
@@ -250,6 +248,8 @@ Randal J. Barnes
 
 **Further Reading**{: .label .label-yellow }
 
+* [A geometric interpretation of the covariance matrix](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/)
+* [A geometric interpretation of ... (In Persian)](https://www.dropbox.com/s/pqnemuis96vebuu/main.pdf?dl=0)
 * [PCA in SKLearn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 * [PCA on IRIS](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html)
 * [Faces recognition example using eigenfaces and SVMs](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py)
