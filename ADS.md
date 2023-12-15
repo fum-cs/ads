@@ -153,7 +153,7 @@ Some Python packages for PSO:
 
 ### High Dimensional Data
 
-* [The curse of dimensionality, Candy example](https://fum-cs.github.io/fds/misc/Curse%20of%20Dimensionality%20-%20Candy-Example.pdf)
+* [The curse of dimensionality, Candy example](../misc/Curse%20of%20Dimensionality%20-%20Candy-Example.pdf)
 
 * Section 2.5 of [ESL](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
    - Page 41/764 Local Methods in High Dimensions
@@ -229,7 +229,7 @@ Some Python packages for PSO:
 **Paper**{: .label .label-blue }[Graph Feature Selection for Anti-Cancer Plant Recommendation](https://mathco.journals.pnu.ac.ir/article_10067.html)
 
 
-## 1402/09/18
+## 1402/09/18, 25
 
 * [Principal Component Analysis explained visually](https://setosa.io/ev/principal-component-analysis/)
 * [In Depth: Principal Component Analysis, Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
@@ -244,6 +244,8 @@ Randal J. Barnes
 
 **Kaggle**{: .label .label-green }[Country Profiling Using PCA and Clustering](https://www.kaggle.com/leo2510/country-clustering-and-pca-analysis)
 
+* [An Introduction to Principal Component Analysis (PCA) with 2018 World Soccer Players Data](https://blog.exploratory.io/an-introduction-to-principal-component-analysis-pca-with-2018-world-soccer-players-data-810d84a14eab), [PDF](../misc/An%20Introduction%20to%20Principal%20Component%20Analysis%20(PCA)%20with%202018%20World%20Soccer%20Players%20Data.pdf)
+
 
 **Further Reading**{: .label .label-yellow }
 
@@ -251,7 +253,6 @@ Randal J. Barnes
 * [PCA on IRIS](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html)
 * [Faces recognition example using eigenfaces and SVMs](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py)
     - [Face dataset](http://vis-www.cs.umass.edu/lfw/alpha_all_35.html)
-* [An Introduction to Principal Component Analysis (PCA) with 2018 World Soccer Players Data](https://blog.exploratory.io/an-introduction-to-principal-component-analysis-pca-with-2018-world-soccer-players-data-810d84a14eab), [PDF](https://fum-cs.github.io/fds/misc/An%20Introduction%20to%20Principal%20Component%20Analysis%20(PCA)%20with%202018%20World%20Soccer%20Players%20Data.pdf)
 * [Using PCA to See Which Countries have Better Players for World Cup Games](https://blog.exploratory.io/using-pca-to-see-which-countries-have-better-players-for-world-cup-games-a72f91698b95), [PDF](../misc/Using%20PCA%20to%20See%20Which%20Countries%20have%20Better%20Players%20for%20World%20Cup%20Games.pdf)
 
 **Paper**{: .label .label-blue }[Eigenbackground Revisited](https://github.com/mamintoosi/Eigenbackground-Revisited)
