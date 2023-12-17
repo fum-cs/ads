@@ -263,6 +263,18 @@ Randal J. Barnes
 **Colab**{: .label .label-green }[SVD for Image Compression](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/SVD/svd_image_compression.ipynb)
 
 
+## 1402/09/27
+## Hierarchical Clustering
+* [A good image for hierarchical clustering](https://www.analyticsvidhya.com/blog/2021/06/single-link-hierarchical-clustering-clearly-explained/)
+* Chapter 14 of [Data Mining & Analysis](https://dataminingbook.info/)  
+* Slides (Hierarchical Clustering): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap14.pdf)
+* [sklearn.cluster.AgglomerativeClustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering)
+  - [Comparing different hierarchical linkage methods on toy datasets](https://scikit-learn.org/stable/auto_examples/cluster/plot_linkage_comparison.html)
+
+**Further Reading**{: .label .label-yellow }
+    
+- Slide: [Hierarchical Clustering](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_hierarchical.pdf) by Jing Gao 
+
 # TBA
 
 **Further Reading**{: .label .label-yellow }
@@ -327,22 +339,6 @@ Sean Borman
 1402/09
 **EXAM**{: .label .label-purple }
 
-## 1402/09
-### <a name="L8"></a>Hierarchical Clustering
-- Chapter 14 of [Data Mining & Analysis](https://dataminingbook.info/)  
-- **HW**{: .label .label-red } 14.4: Q4 
-- Slides (Hierarchical Clustering): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap14.pdf)
-- Slide: [Hierarchical Clustering](http://statweb.stanford.edu/~jtaylo/courses/stats202/restricted/notes/hierarchical.pdf) by Jonathan Taylor 
-- Slide: [Data Structures (Heap)](http://www.cs.nthu.edu.tw/~wkhon/ds/ds11/lecture/lecture4.pdf) by Wing-Kai Hon 
-    
-**Further Reading**{: .label .label-yellow }
-    
-- Slide: [Hierarchical Clustering for Gene Expression Data Analysis](http://homes.di.unimi.it/valenti/SlideCorsi/MB0910/HierarchicalClustering.pdf) by Giorgio Valentini 
-- Slide: [Hierarchical Clustering](https://cse.buffalo.edu/~jing/cse601/fa12/materials/clustering_hierarchical.pdf) by Jing Gao 
-- Slide: [Binary Heaps](https://courses.cs.washington.edu/courses/cse373/06sp/handouts/lecture10.pdf) 
-- A Short Note: [Proof for the Complexity of Building a Heap](http://www.cse.msu.edu/~huding/331material/timecomplexity_for_heap.pdf) by Hu Ding 
-- Lecture: [Finding Meaningful Clusters in Data](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec5.pdf) by Sanjoy Dasgupta 
-- Paper: [An Impossibility Theorem for Clustering](https://www.cs.cornell.edu/home/kleinber/nips15.pdf) by Jon Kleinberg 
 
 ## 1402 Fall
 ### <a name="L12"></a>Clustering Validation
@@ -424,3 +420,6 @@ Randal J. Barnes
 * [Practical Data Science](http://www.datasciencecourse.org/lectures/) by Zico Kolter
 * [Course: Data Mining](https://datalab.snu.ac.kr/~ukang/courses/18S-DM/) by U Kang
 * [Statistical Data Mining Tutorials](http://www.cs.cmu.edu/~./awm/tutorials/index.html) by  Andrew W. Moore  
+
+- Lecture: [Finding Meaningful Clusters in Data](https://cseweb.ucsd.edu/~dasgupta/291-unsup/lec5.pdf) by Sanjoy Dasgupta 
+- Paper: [An Impossibility Theorem for Clustering](https://www.cs.cornell.edu/home/kleinber/nips15.pdf) by Jon Kleinberg 
