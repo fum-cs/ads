@@ -236,7 +236,7 @@ Some Python packages for PSO:
 * [PRML-PCA Slides](https://www.dropbox.com/s/ftw3f8wvx07gos9/PRML_ch12_sec1.pdf?dl=0)
   - [Matrix Differentiation](misc/MatrixCalculus.pdf) by 
 Randal J. Barnes
-* [Chapter 7 of Zaki](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap7.pdf)
+* [Chapter 7 of Zaki (Slides)](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap7.pdf)
 
 **Colab**{: .label .label-green }[PCA-01](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/PCA/PCA_01.ipynb)
 
