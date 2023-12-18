@@ -229,7 +229,7 @@ Some Python packages for PSO:
 **Paper**{: .label .label-blue }[Graph Feature Selection for Anti-Cancer Plant Recommendation](https://mathco.journals.pnu.ac.ir/article_10067.html)
 
 
-## 1402/09/18, 25
+## 1402/09/18, 25, 27
 
 * [Principal Component Analysis explained visually](https://setosa.io/ev/principal-component-analysis/)
 * [In Depth: Principal Component Analysis, Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
@@ -263,7 +263,7 @@ Randal J. Barnes
 **Colab**{: .label .label-green }[SVD for Image Compression](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/SVD/svd_image_compression.ipynb)
 
 
-## 1402/09/27
+## 1402/10/02
 ## Hierarchical Clustering
 * [A good image for hierarchical clustering](https://www.analyticsvidhya.com/blog/2021/06/single-link-hierarchical-clustering-clearly-explained/)
 * Chapter 14 of [Data Mining & Analysis](https://dataminingbook.info/)  
