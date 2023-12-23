@@ -271,7 +271,7 @@ Randal J. Barnes
 * [sklearn.cluster.AgglomerativeClustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering)
   - [Comparing different hierarchical linkage methods on toy datasets](https://scikit-learn.org/stable/auto_examples/cluster/plot_linkage_comparison.html)
 
-**Colab**{: .label .label-green }[Clustering of images](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_clustering_HC.ipynb)
+**Colab**{: .label .label-green }[Clustering of images](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image-clustering_HC.ipynb)
 
 
 **Further Reading**{: .label .label-yellow }
