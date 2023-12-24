@@ -336,8 +336,13 @@ Sean Borman
 - Paper: [Fast Exact k-Means, k-Medians and Bregman Divergence Clustering in 1D](https://cs.au.dk/~larsen/papers/1dkmeans.pdf) 
 - Paper: [k-Means Requires Exponentially Many Iterations Even in the Plane](http://cseweb.ucsd.edu/~avattani/papers/kmeans.pdf) by Andrea Vattani 
 - Book: [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132) by Shai Shalev-Shwartz and Shai Ben-David 
-### <a name="L9"></a>Hierarchical Clustering 
 
+## Mahalanobis distance
+
+* Chapter 2 of Zaki, page 54, eq. 2.43
+* [What is Mahalanobis distance?](https://blogs.sas.com/content/iml/2012/02/15/what-is-mahalanobis-distance.html)
+  - [Use the Cholesky transformation to correlate and uncorrelate variables](https://blogs.sas.com/content/iml/2012/02/08/use-the-cholesky-transformation-to-correlate-and-uncorrelate-variables.html)
+* [Mahalanobis Distance – Understanding the math with examples (python)](https://www.machinelearningplus.com/statistics/mahalanobis-distance/)
 
 1402/09
 **EXAM**{: .label .label-purple }
