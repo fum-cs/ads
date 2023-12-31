@@ -288,9 +288,10 @@ Randal J. Barnes
 ## 1402/10/09
 Mid Term
 
-## 1402/10/10
+## 1402/10/11
 
 * [Soft k-means](../misc/soft-k-means.pdf)
+
 **Colab**{: .label .label-green } [Gaussian Mixture Models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb)
 
 # TBA
