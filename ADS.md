@@ -285,6 +285,14 @@ Randal J. Barnes
 * [Comparison of LDA and PCA](https://scikit-learn.org/0.16/auto_examples/decomposition/plot_pca_vs_lda.html#example-decomposition-plot-pca-vs-lda-py)
 * HW: Compare LDA and PCA first axis (classification by SVM)
 
+## 1402/10/09
+Mid Term
+
+## 1402/10/10
+
+* [Soft k-means](../misc/soft-k-means.pdf)
+**Colab**{: .label .label-green } [Gaussian Mixture Models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb)
+
 # TBA
 
 **Further Reading**{: .label .label-yellow }
