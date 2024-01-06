@@ -294,13 +294,13 @@ Mid Term
 
 **Colab**{: .label .label-green } [Gaussian Mixture Models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb)
 
+# TBA
+
 ## 1402 Winter
 ### Adding Features
 
 **Colab**{: .label .label-green }[Add Pixels' coordinates for image segmentation](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_04_coords.ipynb)
 
-
-# TBA
 
 ### Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
@@ -327,7 +327,7 @@ Mid Term
 **Further Reading**{: .label .label-yellow }
 
 * [Duda](https://www.dropbox.com/s/d5ordbb9kf37398/Bayesian.pdf?dl=0)
-* [Naïve Bayes Algorithm -Implementation from scratch in Python. | by ranga_vamsi | Medium](https://medium.com/@rangavamsi5/na%C3%AFve-bayes-algorithm-implementation-from-scratch-in-python-7b2cc39268b9)
+* [Naïve Bayes Algorithm -Implementation from scratch in Python, Medium](https://medium.com/@rangavamsi5/na%C3%AFve-bayes-algorithm-implementation-from-scratch-in-python-7b2cc39268b9)
   - [Github](https://github.com/vamc-stash/Naive-Bayes)
 
 ## K-means
