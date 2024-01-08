@@ -294,6 +294,27 @@ Mid Term
 
 **Colab**{: .label .label-green } [Gaussian Mixture Models](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb)
 
+## 1402/10/16,18
+## Bayes
+
+* [Slides](https://www.dropbox.com/s/cv22u3jlx2lrre5/Bayesian%20Classification%20withInsect_examples.pdf?dl=0)
+* [SE example](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
+* [How to Develop a Naive Bayes Classifier from Scratch in Python](https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/)
+
+
+**Further Reading**{: .label .label-yellow }
+
+* [Duda](https://www.dropbox.com/s/d5ordbb9kf37398/Bayesian.pdf?dl=0)
+* [Naïve Bayes Algorithm -Implementation from scratch in Python, Medium](https://medium.com/@rangavamsi5/na%C3%AFve-bayes-algorithm-implementation-from-scratch-in-python-7b2cc39268b9)
+  - [Github](https://github.com/vamc-stash/Naive-Bayes)
+* [Segmentation using Bayesian Decision Theory](https://www.cs.utexas.edu/~grauman/courses/fall2008/slides/segmentation_bayes_aggarwal.pdf)
+
+**Paper**{: .label .label-blue }[BayeSeg: Bayesian modeling for medical image segmentation with interpretable generalizability](https://www.sciencedirect.com/science/article/pii/S1361841523001494)
+  - [Github](https://github.com/obiyoag/BayeSeg)
+
+* [Bayesian approach to Natural Image Matting](https://github.com/praveenVnktsh/Bayesian-Matting)
+
+
 # TBA
 
 ## 1402 Winter
@@ -318,17 +339,6 @@ Mid Term
 ### Image Matting
 - Github Rep.: [A Python library for alpha matting](https://github.com/pymatting/pymatting) [https://pymatting.github.io/](https://pymatting.github.io/) by Y. Gavet & J. Debayle  
 
-
-## Bayes
-
-* [Slides](https://www.dropbox.com/s/cv22u3jlx2lrre5/Bayesian%20Classification%20withInsect_examples.pdf?dl=0)
-* [SE example](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
-
-**Further Reading**{: .label .label-yellow }
-
-* [Duda](https://www.dropbox.com/s/d5ordbb9kf37398/Bayesian.pdf?dl=0)
-* [Naïve Bayes Algorithm -Implementation from scratch in Python, Medium](https://medium.com/@rangavamsi5/na%C3%AFve-bayes-algorithm-implementation-from-scratch-in-python-7b2cc39268b9)
-  - [Github](https://github.com/vamc-stash/Naive-Bayes)
 
 ## K-means
 
