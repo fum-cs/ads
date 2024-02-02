@@ -33,10 +33,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  CS Dept.:
+    - 'https://fumcs.github.io'
   Mahmood Amintoosi:
     - 'https://mamintoosi.github.io'
-  Class Repository on GitHub:
-    - 'https://github.com/mamintoosi/'
+  Class Repository:
+    - 'https://github.com/fum-cs/fds'
 footer_content:
 
 # Collections for website data
