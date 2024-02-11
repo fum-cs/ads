@@ -73,10 +73,14 @@ defaults:
     values:
       layout: announcement
 
+mathjax:
+  source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
+  config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
+
 compress_html:
   clippings: all
   comments: all
   endings: all
   startings: []
-  blanklines: false
+  blanklines: true
   profile: false
