@@ -102,7 +102,7 @@ Some Python packages for PSO:
 * SAT Table & Brute Force Algorithm for Clustering
   - **Colab**{: .label .label-green }[Brute Force Alg for Clustering](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/BF-clustering.ipynb)
   
-**HW6**{: .label .label-red } [Generate data & Clustering](https://vu.um.ac.ir/mod/assign/view.php?id=454178), due: 1402/08/04
+**HW6**{: .label .label-red }[Generate data & Clustering](https://vu.um.ac.ir/mod/assign/view.php?id=454178), due: 1402/08/04
 
 **HW7**{: .label .label-red }[BSAS Algorithm](https://vu.um.ac.ir/mod/assign/view.php?id=454181), due: 1402/08/07
 
@@ -197,6 +197,8 @@ Some Python packages for PSO:
 * [MLU-Explain double-descent, part 2](https://mlu-explain.github.io/double-descent2/)
 * [The Bias-Variance Tradeoff: A Newbie’s Guide, by a Newbie](https://medium.com/@DeepthiTabithaBennet/the-bias-variance-tradeoff-a-newbies-guide-by-a-newbie-95fb03dbebcb)
 * [bias-variance-trade-off](https://spotintelligence.com/2023/04/11/bias-variance-trade-off/)
+
+**Paper**{: .label .label-blue }[VC Theoretical Explanation of Double Descent](https://arxiv.org/abs/2205.15549)
 
 **Paper**{: .label .label-blue }[Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/doi/10.1073/pnas.1903070116)
   - [Double Descent](https://medium.com/mlearning-ai/double-descent-8f92dfdc442f), [Highlights](misc/medium-com_mlearning-ai_double-descent-highlightes.md)
