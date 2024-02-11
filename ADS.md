@@ -41,7 +41,7 @@ Some Examples:
 - [Some published papers about the above programs](https://fumcs.github.io/projects/comb-opt/)
 
 ## 1402/07/15
-: Random Search
+Random Search
   : Chapter 1 & 2 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0) + [My NP-Complete Paper](https://www.dropbox.com/s/gdwuin9xycbvxwa/1379-npcomplete.pdf?dl=0)
 
 **HW3**{: .label .label-red }[Python Code of Program 1.2, Page 11 of My book - RS](https://vu.um.ac.ir/mod/assign/view.php?id=449054&forceview=1), due: 1402/07/25
@@ -60,10 +60,10 @@ Some Examples:
 
 
 ## 1402/07/22
-: PSO
+PSO
   : Chapter 6 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
 
-**HW5**{: .label .label-red }Use one the Python packages to find the minimum of f(x)=3sin(x)+(0.1x-3)^2: [PSO for function 1.2](https://vu.um.ac.ir/mod/assign/view.php?id=449056&forceview=1), due: 1402/07/28
+**HW5**{: .label .label-red }Use one the Python packages to find the minimum of $f(x)=3sin(x)+(0.1x-3)^2$: [PSO for function 1.2](https://vu.um.ac.ir/mod/assign/view.php?id=449056&forceview=1), due: 1402/07/28
 
 Some Python packages for PSO:
   * [Pymoo](https://pymoo.org/algorithms/soo/pso.html)
@@ -286,7 +286,9 @@ Randal J. Barnes
 * HW: Compare LDA and PCA first axis (classification by SVM)
 
 ## 1402/10/09
-Mid Term
+
+**Mid Term**{: .label .label-purple }
+
 
 ## 1402/10/11
 
@@ -315,13 +317,15 @@ Mid Term
 * [Bayesian approach to Natural Image Matting](https://github.com/praveenVnktsh/Bayesian-Matting)
 
 
-# TBA
 
 ## 1402 Winter
 ### Adding Features
 
 **Colab**{: .label .label-green }[Add Pixels' coordinates for image segmentation](https://colab.research.google.com/github/fum-cs/fds/blob/main/code/image_seg_04_coords.ipynb)
 
+## 1402/11/01
+
+**EXAM**{: .label .label-purple }
 
 ### Image Processing and Computer Vision
 - Website: [Image Processing in Python with Scikit-image](https://blog.faradars.org/image-processing-in-python/) by M. Jaderian 
@@ -359,7 +363,6 @@ Mid Term
 
 
 
-1402/09
 ### Representative-Based Clustering
 
 - Chapter 13 of [Data Mining & Analysis](https://dataminingbook.info/)  
@@ -388,11 +391,8 @@ Sean Borman
 * [Outlier detection-faradars](https://blog.faradars.org/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C-%D9%BE%D8%B1%D8%AA-%D8%A8%D8%A7-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%D9%85%D8%A7%D9%87%D8%A7%D9%84%D8%A7%D9%86%D9%88%D8%A8%DB%8C%D8%B3/)
 * [Mahalanobis Distance – Understanding the math with examples (python)](https://www.machinelearningplus.com/statistics/mahalanobis-distance/)
 
-1402/09
-**EXAM**{: .label .label-purple }
 
-
-## 1402 Fall
+## 1402 Winter
 ### <a name="L12"></a>Clustering Validation
 - Chapter 17 of [Data Mining & Analysis](https://dataminingbook.info/)  
 - Slides of Section 17.1 (Clustering Validation): [PDF](https://www.cs.rpi.edu/~zaki/DMML/slides/pdf/ychap17.pdf)
@@ -439,13 +439,6 @@ Randal J. Barnes
 - Paper: [Positive Semidefinite Matrices and Variational Characterizations of Eigenvalues
 ](http://www.ee.cuhk.edu.hk/~wkma/engg5781/new_notes/lecture%204-%20PSD-%20note.pdf) by Wing-Kin Ma  
 
-
-
-## 1402 Winter
-**EXAM**{: .label .label-purple }
-
-
-## 1402 Winter
 ### <a name="L7"></a>Itemset Mining
 - Chapter 8 of [Data Mining & Analysis](https://dataminingbook.info/)  
 
