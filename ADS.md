@@ -63,7 +63,7 @@ Random Search
 PSO
   : Chapter 6 of [My Book](https://www.dropbox.com/s/8bnxpzvfgiwma0k/combopt-PSO-20160514.pdf?dl=0)
 
-**HW5**{: .label .label-red }Use one the Python packages to find the minimum of $f(x)=3sin(x)+(0.1x-3)^2$: [PSO for function 1.2](https://vu.um.ac.ir/mod/assign/view.php?id=449056&forceview=1), due: 1402/07/28
+**HW5**{: .label .label-red }Use one the Python packages to find the minimum of $$f(x)=3sin(x)+(0.1x-3)^2$$: [PSO for function 1.2](https://vu.um.ac.ir/mod/assign/view.php?id=449056&forceview=1), due: 1402/07/28
 
 Some Python packages for PSO:
   * [Pymoo](https://pymoo.org/algorithms/soo/pso.html)
