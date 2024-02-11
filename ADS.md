@@ -2,6 +2,7 @@
 layout: page
 title: Algorithms for Data Science 
 description: Listing of course modules and topics.
+mathjax: true
 ---
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
