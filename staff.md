@@ -2,6 +2,7 @@
 layout: page
 title: Staff
 description: A listing of all the course staff members.
+tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
 ## Instructors

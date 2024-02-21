@@ -2,6 +2,7 @@
 layout: page
 title: Teaching Assistant-Led Sessions
 description: Listing of modules and topics led by TAs.
+tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:

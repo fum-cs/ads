@@ -3,6 +3,7 @@ layout: page
 title: Algorithms for Data Science 
 description: Listing of course modules and topics.
 mathjax: true
+tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:

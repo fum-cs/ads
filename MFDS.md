@@ -2,6 +2,7 @@
 layout: page
 title: Mathematical Foundations of Data Science 
 description: Listing of course modules and topics.
+tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
