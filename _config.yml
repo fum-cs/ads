@@ -84,3 +84,6 @@ compress_html:
   startings: []
   blanklines: true
   profile: false
+
+plugins:
+  - jekyll-seo-tag
