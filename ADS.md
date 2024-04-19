@@ -11,7 +11,7 @@ tags:
 
 ## <a name="Main-TextBooks"></a>Main TextBooks:
 
-* [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr., 2021 (Data Mining & Analysis) [PDF](https://fumdrive.um.ac.ir/index.php/f/4160875)
+* [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://dataminingbook.info/) by Mohammed J. Zaki and Wagner Meira Jr., 2021 (Data Mining & Analysis) [PDF](https://fumdrive.um.ac.ir/index.php/s/9W96bM8Q3QaJpAM)
 * [Pattern Recognition](https://darmanto.akakom.ac.id/pengenalanpola/Pattern%20Recognition%204th%20Ed.%20(2009).pdf), by Sergios Theodoridis  and Konstantinos Koutroumpas, 2009
 * [The Elements of Statistical Learning (ESL)](https://fumdrive.um.ac.ir/index.php/s/FH8nB4SwGkJrMeQ)
 * [Foundations of Data Science (FDS)](https://www.cs.cornell.edu/jeh/book.pdf), by Avrim Blum, John Hopcroft, and Ravindran Kannan, 2018
